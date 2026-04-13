@@ -1,0 +1,5542 @@
+{
+  "https://www.italaw.com/cases/9135": {
+    "caso": "afc-v-colombia",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw170050-pdf.pdf",
+      "doc02-italaw170711-pdf.pdf",
+      "doc03-italaw170712-pdf.pdf",
+      "doc04-italaw170051-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9929": {
+    "caso": "ahg-v-iraq",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw170760-pdf.pdf",
+      "doc02-italaw170761-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10454": {
+    "caso": "brif-v-serbia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw171311-pdf.pdf",
+      "doc02-italaw171312-pdf.pdf",
+      "doc03-180588-pdf.pdf",
+      "doc04-180589-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8431": {
+    "caso": "hope-services-v-cameroon",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw11808-pdf.pdf",
+      "doc02-italaw11809-pdf.pdf",
+      "doc03-italaw11810-pdf.pdf",
+      "doc04-italaw16000-pdf.pdf",
+      "doc05-italaw16399-pdf.pdf",
+      "doc06-italaw16400-pdf.pdf",
+      "doc07-italaw16402-pdf.pdf",
+      "doc08-italaw16401-pdf.pdf",
+      "doc09-italaw16403-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8457": {
+    "caso": "nachingwea-and-others-v-tanzania",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw11839-pdf.pdf",
+      "doc02-italaw11840-pdf.pdf",
+      "doc03-180253-pdf.pdf",
+      "doc04-italaw1827238-0-pdf.pdf",
+      "doc05-italaw182096-pdf.pdf",
+      "doc06-italaw182098-pdf.pdf",
+      "doc07-180648-pdf.pdf",
+      "doc08-italaw182099-pdf.pdf",
+      "doc09-italaw182100-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8023": {
+    "caso": "pildegovics-and-north-star-v-norway",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11326-pdf.pdf",
+      "doc02-italaw170808-pdf.pdf",
+      "doc03-italaw11777-pdf.pdf",
+      "doc04-italaw11778-pdf.pdf",
+      "doc05-italaw11978-pdf.pdf",
+      "doc06-italaw11979-pdf.pdf",
+      "doc07-italaw16006-pdf.pdf",
+      "doc08-italaw170672-pdf.pdf",
+      "doc09-italaw170671-pdf.pdf",
+      "doc10-italaw170658-pdf.pdf",
+      "doc11-italaw170663-pdf.pdf",
+      "doc12-italaw170664-pdf.pdf",
+      "doc13-italaw16007-pdf.pdf",
+      "doc14-italaw170665-pdf.pdf",
+      "doc15-italaw16243-pdf.pdf",
+      "doc16-italaw181763-pdf.pdf",
+      "doc17-italaw16244-pdf.pdf",
+      "doc18-italaw16245-pdf.pdf",
+      "doc19-italaw16277-pdf.pdf",
+      "doc20-italaw170666-pdf.pdf",
+      "doc21-italaw170667-pdf.pdf",
+      "doc22-italaw170668-pdf.pdf",
+      "doc23-italaw170641-pdf.pdf",
+      "doc24-italaw16398-pdf.pdf",
+      "doc25-italaw16431-0-pdf.pdf",
+      "doc26-italaw170642-pdf.pdf",
+      "doc27-italaw170657-pdf.pdf",
+      "doc28-italaw170659-pdf.pdf",
+      "doc29-italaw170660-pdf.pdf",
+      "doc30-italaw170661-pdf.pdf",
+      "doc31-italaw170669-pdf.pdf",
+      "doc32-italaw170673-pdf.pdf",
+      "doc33-italaw170670-pdf.pdf",
+      "doc34-italaw170674-pdf.pdf",
+      "doc35-italaw170797-pdf.pdf",
+      "doc36-italaw171129-pdf.pdf",
+      "doc37-180582-pdf.pdf",
+      "doc38-180713-pdf.pdf",
+      "doc39-italaw182483-pdf.pdf",
+      "doc40-italaw182484-pdf.pdf",
+      "doc41-italaw182485-pdf.pdf",
+      "doc42-italaw182486-pdf.pdf",
+      "doc43-italaw182487-pdf.pdf",
+      "doc44-italaw182488-pdf.pdf",
+      "doc45-italaw1826474-pdf.pdf",
+      "doc46-italaw1826473-pdf.pdf",
+      "doc47-italaw1826472-pdf.pdf",
+      "doc48-italaw1826609-pdf.pdf",
+      "doc49-italaw1826737-pdf.pdf",
+      "doc50-italaw1826738-pdf.pdf",
+      "doc51-italaw1826739-pdf.pdf",
+      "doc52-italaw1826740-pdf.pdf",
+      "doc53-italaw1827006-pdf.pdf",
+      "doc54-italaw1827007-pdf.pdf",
+      "doc55-italaw1827008-pdf.pdf",
+      "doc56-italaw1827009-pdf.pdf",
+      "doc57-italaw1826987-pdf.pdf",
+      "doc58-italaw1826988-pdf.pdf",
+      "doc59-italaw1827010-pdf.pdf",
+      "doc60-italaw1827011-pdf.pdf",
+      "doc61-italaw1827012-pdf.pdf",
+      "doc62-italaw1827013-pdf.pdf",
+      "doc63-italaw180866-20-20pildegovics-20and-20north-20star-20v-20nor.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9474": {
+    "caso": "diaz-gaspar-v-costa-rica",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw170303-pdf.pdf",
+      "doc02-italaw170305-pdf.pdf",
+      "doc03-italaw170304-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10933": {
+    "caso": "kenon-and-ic-power-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-180364-pdf.pdf",
+      "doc02-italaw181876-pdf.pdf",
+      "doc03-italaw181877-pdf.pdf",
+      "doc04-italaw181878-pdf.pdf",
+      "doc05-180365-pdf.pdf",
+      "doc06-180366-pdf.pdf",
+      "doc07-180367-pdf.pdf",
+      "doc08-180368-pdf.pdf",
+      "doc09-180369-pdf.pdf",
+      "doc10-180370-pdf.pdf",
+      "doc11-180493-pdf.pdf",
+      "doc12-italaw180938-pdf.pdf",
+      "doc13-italaw180939-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10907": {
+    "caso": "kornikom-v-serbia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-180341-pdf.pdf",
+      "doc02-180342-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7621": {
+    "caso": "mamacocha-and-latam-hydro-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw10867-pdf.pdf",
+      "doc02-italaw11488-pdf.pdf",
+      "doc03-italaw10868-pdf.pdf",
+      "doc04-italaw11559-pdf.pdf",
+      "doc05-italaw11560-pdf.pdf",
+      "doc06-italaw11561-pdf.pdf",
+      "doc07-italaw11562-pdf.pdf",
+      "doc08-italaw11921-pdf.pdf",
+      "doc09-italaw16029-pdf.pdf",
+      "doc10-italaw16030-pdf.pdf",
+      "doc11-italaw16209-pdf.pdf",
+      "doc12-italaw16432-0-pdf.pdf",
+      "doc13-italaw16388-pdf.pdf",
+      "doc14-italaw16433-0-pdf.pdf",
+      "doc15-italaw16434-pdf.pdf",
+      "doc16-italaw16435-pdf.pdf",
+      "doc17-italaw16439-pdf.pdf",
+      "doc18-italaw16585-pdf.pdf",
+      "doc19-italaw16586-pdf.pdf",
+      "doc20-italaw16587-pdf.pdf",
+      "doc21-italaw16588-pdf.pdf",
+      "doc22-italaw16589-pdf.pdf",
+      "doc23-italaw16590-pdf.pdf",
+      "doc24-italaw16591-pdf.pdf",
+      "doc25-italaw16592-pdf.pdf",
+      "doc26-italaw16593-pdf.pdf",
+      "doc27-180601-pdf.pdf",
+      "doc28-180635-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://italaw.com/cases/10607": {
+    "caso": "mihaljevic-v-croatia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-18028-pdf.pdf",
+      "doc02-18029-pdf.pdf",
+      "doc03-18030-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8790": {
+    "caso": "orazul-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw16190-pdf.pdf",
+      "doc02-italaw16191-pdf.pdf",
+      "doc03-italaw16192-pdf.pdf",
+      "doc04-italaw16193-pdf.pdf",
+      "doc05-italaw16194-pdf.pdf",
+      "doc06-italaw16496-pdf.pdf",
+      "doc07-italaw16497-pdf.pdf",
+      "doc08-italaw170428-pdf.pdf",
+      "doc09-italaw170429-pdf.pdf",
+      "doc10-italaw170430-pdf.pdf",
+      "doc11-italaw170431-pdf.pdf",
+      "doc12-italaw170586-pdf.pdf",
+      "doc13-italaw170818-pdf.pdf",
+      "doc14-italaw170948-pdf.pdf",
+      "doc15-italaw170946-pdf.pdf",
+      "doc16-180520-pdf.pdf",
+      "doc17-180545-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/11120": {
+    "caso": "scholz-holding-v-morocco",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-180565-pdf.pdf",
+      "doc02-180566-pdf.pdf",
+      "doc03-180567-pdf.pdf",
+      "doc04-180568-pdf.pdf",
+      "doc05-180569-pdf.pdf",
+      "doc06-180570-pdf.pdf",
+      "doc07-180571-pdf.pdf",
+      "doc08-180572-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7841": {
+    "caso": "almasryia-v-kuwait",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw11116-pdf.pdf",
+      "doc02-italaw11114-0-pdf.pdf",
+      "doc03-italaw11115-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9878": {
+    "caso": "alverley-and-germen-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw170707-pdf.pdf",
+      "doc02-italaw170708-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9419": {
+    "caso": "bay-view-and-spalena-v-rwanda",
+    "region": "África Subsahariana",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-en.pdf",
+      "icsid-doc12-en.pdf",
+      "icsid-doc13-en.pdf",
+      "icsid-doc14-en.pdf",
+      "icsid-doc15-en.pdf",
+      "icsid-doc16-en.pdf",
+      "icsid-doc17-en.pdf",
+      "icsid-doc18-en.pdf",
+      "icsid-doc19-en.pdf",
+      "icsid-doc20-en.pdf",
+      "icsid-doc21-en.pdf",
+      "icsid-doc22-en.pdf",
+      "icsid-doc23-en.pdf",
+      "icsid-doc24-en.pdf",
+      "icsid-doc25-en.pdf",
+      "icsid-doc26-en.pdf",
+      "icsid-doc27-en.pdf",
+      "icsid-doc28-en.pdf",
+      "icsid-doc29-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "https://www.italaw.com/cases/9490": {
+    "caso": "bbva-v-bolivia",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw170319-pdf.pdf",
+      "doc02-italaw170320-pdf.pdf",
+      "doc03-italaw182338-pdf.pdf",
+      "doc04-italaw1827196-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10157": {
+    "caso": "borkowski-and-rasia-fze-v-armenia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw171008-pdf.pdf",
+      "doc02-italaw171030-pdf.pdf",
+      "doc03-italaw1826516-pdf.pdf",
+      "doc04-italaw182633-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8262": {
+    "caso": "carrizosa-v-colombia-ii",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw11614-pdf.pdf",
+      "doc02-italaw11615-pdf.pdf",
+      "doc03-italaw11616-pdf.pdf",
+      "doc04-italaw11617-pdf.pdf",
+      "doc05-italaw11618-pdf.pdf",
+      "doc06-italaw11619-pdf.pdf",
+      "doc07-italaw11620-pdf.pdf",
+      "doc08-italaw11621-pdf.pdf",
+      "doc09-italaw11622-pdf.pdf",
+      "doc10-italaw11623-pdf.pdf",
+      "doc11-italaw11624-pdf.pdf",
+      "doc12-italaw11625-pdf.pdf",
+      "doc13-italaw11626-pdf.pdf",
+      "doc14-italaw11627-pdf.pdf",
+      "doc15-italaw11865-pdf.pdf",
+      "doc16-italaw11866-pdf.pdf",
+      "doc17-italaw11867-pdf.pdf",
+      "doc18-italaw16167-pdf.pdf",
+      "doc19-italaw16168-pdf.pdf",
+      "doc20-italaw16169-pdf.pdf",
+      "doc21-italaw16170-pdf.pdf",
+      "doc22-italaw16373-pdf.pdf",
+      "doc23-italaw16374-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8037": {
+    "caso": "cascade-investments-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw11344-pdf.pdf",
+      "doc02-italaw11345-pdf.pdf",
+      "doc03-italaw11467-pdf.pdf",
+      "doc04-italaw11513-pdf.pdf",
+      "doc05-italaw11666-pdf.pdf",
+      "doc06-italaw11667-pdf.pdf",
+      "doc07-italaw170280-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8058": {
+    "caso": "ipek-v-turkiye",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw11370-pdf.pdf",
+      "doc02-180050-pdf.pdf",
+      "doc03-180051-pdf.pdf",
+      "doc04-180052-pdf.pdf",
+      "doc05-180053-pdf.pdf",
+      "doc06-180054-pdf.pdf",
+      "doc07-italaw11468-pdf.pdf",
+      "doc08-italaw11469-pdf.pdf",
+      "doc09-italaw11470-pdf.pdf",
+      "doc10-180055-pdf.pdf",
+      "doc11-180056-pdf.pdf",
+      "doc12-italaw11371-pdf.pdf",
+      "doc13-180057-pdf.pdf",
+      "doc14-italaw11471-pdf.pdf",
+      "doc15-180058-pdf.pdf",
+      "doc16-180059-pdf.pdf",
+      "doc17-180060-pdf.pdf",
+      "doc18-italaw11711-pdf.pdf",
+      "doc19-180061-pdf.pdf",
+      "doc20-180062-pdf.pdf",
+      "doc21-180063-pdf.pdf",
+      "doc22-180064-pdf.pdf",
+      "doc23-180065-pdf.pdf",
+      "doc24-180066-pdf.pdf",
+      "doc25-18032-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/11031": {
+    "caso": "mts-v-turkmenistan-ii",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-180475-pdf.pdf",
+      "doc02-180476-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7884": {
+    "caso": "rand-investments-and-others-v-serbia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11162-pdf.pdf",
+      "doc02-italaw11163-pdf.pdf",
+      "doc03-italaw11164-pdf.pdf",
+      "doc04-italaw11165-pdf.pdf",
+      "doc05-italaw11166-pdf.pdf",
+      "doc06-italaw11167-pdf.pdf",
+      "doc07-italaw11168-pdf.pdf",
+      "doc08-italaw11169-0-pdf.pdf",
+      "doc09-italaw11170-pdf.pdf",
+      "doc10-italaw11171-pdf.pdf",
+      "doc11-italaw11179-0-pdf.pdf",
+      "doc12-italaw11172-pdf.pdf",
+      "doc13-italaw11173-pdf.pdf",
+      "doc14-italaw11180-0-pdf.pdf",
+      "doc15-italaw11174-pdf.pdf",
+      "doc16-italaw11175-pdf.pdf",
+      "doc17-italaw11176-pdf.pdf",
+      "doc18-italaw11181-pdf.pdf",
+      "doc19-italaw11177-pdf.pdf",
+      "doc20-italaw11178-pdf.pdf",
+      "doc21-italaw11342-pdf.pdf",
+      "doc22-italaw11343-pdf.pdf",
+      "doc23-italaw11348-pdf.pdf",
+      "doc24-italaw11349-pdf.pdf",
+      "doc25-italaw11423-pdf.pdf",
+      "doc26-italaw11892-pdf.pdf",
+      "doc27-italaw16135-pdf.pdf",
+      "doc28-italaw16202-pdf.pdf",
+      "doc29-italaw16261-pdf.pdf",
+      "doc30-italaw16262-pdf.pdf",
+      "doc31-italaw16333-pdf.pdf",
+      "doc32-italaw16279-pdf.pdf",
+      "doc33-italaw16334-pdf.pdf",
+      "doc34-italaw16335-pdf.pdf",
+      "doc35-italaw16336-pdf.pdf",
+      "doc36-italaw16370-pdf.pdf",
+      "doc37-italaw16371-pdf.pdf",
+      "doc38-italaw16390-pdf.pdf",
+      "doc39-italaw16391-pdf.pdf",
+      "doc40-180127-pdf.pdf",
+      "doc41-180105-pdf.pdf",
+      "doc42-180458-pdf.pdf",
+      "doc43-italaw182031-pdf.pdf",
+      "doc44-italaw1826863-pdf.pdf",
+      "doc45-italaw182105-pdf.pdf",
+      "doc46-italaw182458-pdf.pdf",
+      "doc47-italaw1826657-pdf.pdf",
+      "doc48-italaw1826864-pdf.pdf",
+      "doc49-italaw1826865-pdf.pdf",
+      "doc50-italaw1827062-pdf.pdf",
+      "doc51-italaw1827061-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/4858": {
+    "caso": "unionmatex-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw11244-pdf.pdf",
+      "doc02-italaw11243-pdf.pdf",
+      "doc03-italaw181531-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7014": {
+    "caso": "westwater-resources-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw10156-pdf.pdf",
+      "doc02-italaw10157-pdf.pdf",
+      "doc03-italaw11463-pdf.pdf",
+      "doc04-180613-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10093": {
+    "caso": "addiko-bank-v-montenegro",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw170949-pdf.pdf",
+      "doc02-italaw170950-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5142": {
+    "caso": "agility-v-iraq",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw8210-pdf.pdf",
+      "doc02-italaw182219-pdf.pdf",
+      "doc03-italaw171355-0-pdf.pdf",
+      "doc04-180621-pdf.pdf",
+      "doc05-italaw182220-pdf.pdf",
+      "doc06-italaw180908-pdf.pdf",
+      "doc07-italaw180907-pdf.pdf",
+      "doc08-italaw181979-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5004": {
+    "caso": "air-canada-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw182084-pdf.pdf",
+      "doc02-italaw182063-0-pdf.pdf",
+      "doc03-180460-pdf.pdf",
+      "doc04-italaw182065-0-pdf.pdf",
+      "doc05-180328-pdf.pdf",
+      "doc06-italaw182064-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8413": {
+    "caso": "arin-capital-and-khudyan-v-armenia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw11781-pdf.pdf",
+      "doc02-italaw1827309738-pdf.pdf",
+      "doc03-italaw11782-pdf.pdf",
+      "doc04-italaw11783-pdf.pdf",
+      "doc05-italaw180822-pdf.pdf",
+      "doc06-italaw1827309740-pdf.pdf",
+      "doc07-italaw1827309741-pdf.pdf",
+      "doc08-italaw1827309742-pdf.pdf",
+      "doc09-italaw180823-pdf.pdf",
+      "doc10-180797-pdf.pdf",
+      "doc11-italaw181868-pdf.pdf",
+      "doc12-italaw181867-pdf.pdf",
+      "doc13-italaw181869-pdf.pdf",
+      "doc14-italaw181870-pdf.pdf",
+      "doc15-italaw181871-pdf.pdf",
+      "doc16-180798-pdf.pdf",
+      "doc17-italaw181864-pdf.pdf",
+      "doc18-italaw181865-pdf.pdf",
+      "doc19-italaw181866-pdf.pdf",
+      "doc20-italaw1827309736-pdf.pdf",
+      "doc21-italaw1827309737-pdf.pdf",
+      "doc22-italaw1827309739-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6162": {
+    "caso": "big-sky-energy-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw9211-pdf.pdf",
+      "doc02-italaw181958-pdf.pdf",
+      "doc03-italaw181959-pdf.pdf",
+      "doc04-italaw181960-pdf.pdf",
+      "doc05-italaw16523-pdf.pdf",
+      "doc06-italaw181961-pdf.pdf",
+      "doc07-italaw181962-pdf.pdf",
+      "doc08-italaw181963-pdf.pdf",
+      "doc09-italaw181964-pdf.pdf",
+      "doc10-italaw181965-pdf.pdf",
+      "doc11-italaw16522-pdf.pdf",
+      "doc12-italaw16521-pdf.pdf",
+      "doc13-italaw181966-pdf.pdf",
+      "doc14-italaw181967-pdf.pdf",
+      "doc15-italaw181969-pdf.pdf",
+      "doc16-italaw170402-pdf.pdf",
+      "doc17-italaw181971-pdf.pdf",
+      "doc18-italaw170403-pdf.pdf",
+      "doc19-italaw181968-pdf.pdf",
+      "doc20-italaw181972-pdf.pdf",
+      "doc21-italaw181973-pdf.pdf",
+      "doc22-italaw181974-pdf.pdf",
+      "doc23-italaw182284-pdf.pdf",
+      "doc24-italaw182285-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7631": {
+    "caso": "cmc-v-mozambique",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw10878-pdf.pdf",
+      "doc02-italaw10928-pdf.pdf",
+      "doc03-italaw10929-pdf.pdf",
+      "doc04-italaw10930-pdf.pdf",
+      "doc05-italaw10931-pdf.pdf",
+      "doc06-italaw10932-pdf.pdf",
+      "doc07-italaw10936-pdf.pdf",
+      "doc08-italaw10937-pdf.pdf",
+      "doc09-italaw10879-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5939": {
+    "caso": "de-sutter-and-others-v-madagascar-ii",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw8998-pdf.pdf",
+      "doc02-italaw181138-pdf.pdf",
+      "doc03-italaw170784-pdf.pdf",
+      "doc04-italaw10127-0-pdf.pdf",
+      "doc05-italaw170785-pdf.pdf",
+      "doc06-italaw10128-0-pdf.pdf",
+      "doc07-italaw181174-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10180": {
+    "caso": "ecodevelopment-and-ecoenergy-v-tanzania",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw171036-pdf.pdf",
+      "doc02-180762-pdf.pdf",
+      "doc03-italaw171037-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6623": {
+    "caso": "elitech-and-razvoj-v-croatia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw9723-pdf.pdf",
+      "doc02-italaw9724-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/10246": {
+    "caso": "gardabani-and-silk-road-v-georgia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw171095-pdf.pdf",
+      "doc02-italaw171096-pdf.pdf",
+      "doc03-italaw171097-pdf.pdf",
+      "doc04-italaw170956-0-pdf.pdf",
+      "doc05-italaw171249-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5591": {
+    "caso": "itisaluna-iraq-and-others-v-iraq",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw11410-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5565": {
+    "caso": "lidercon-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw8628-pdf.pdf",
+      "doc02-italaw11285-pdf.pdf",
+      "doc03-italaw11419-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8095": {
+    "caso": "lotus-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw11412-pdf.pdf",
+      "doc02-italaw11413-pdf.pdf",
+      "doc03-italaw11411-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7661": {
+    "caso": "magyar-farming-and-others-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10913-pdf.pdf",
+      "doc02-italaw10914-pdf.pdf",
+      "doc03-italaw11363-pdf.pdf",
+      "doc04-180607-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9043": {
+    "caso": "makae-v-saudi-arabia",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw170018-pdf.pdf",
+      "doc02-italaw170019-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5412": {
+    "caso": "ohl-and-others-v-kuwait",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw8551-pdf.pdf",
+      "doc02-italaw8552-pdf.pdf",
+      "doc03-italaw9396-pdf.pdf",
+      "doc04-italaw1826724-pdf.pdf",
+      "doc05-italaw1826726-pdf.pdf",
+      "doc06-italaw1826726-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5008": {
+    "caso": "ortiz-v-algeria",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw11527-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5015": {
+    "caso": "pawlowski-and-projekt-sever-v-czech-republic",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw8780-pdf.pdf",
+      "doc02-italaw8138-pdf.pdf",
+      "doc03-italaw9762-pdf.pdf",
+      "doc04-italaw9896-pdf.pdf",
+      "doc05-italaw11384-pdf.pdf",
+      "doc06-italaw11381-pdf.pdf",
+      "doc07-italaw11382-pdf.pdf",
+      "doc08-italaw11383-pdf.pdf",
+      "doc09-italaw16355-pdf.pdf",
+      "doc10-italaw16356-pdf.pdf",
+      "doc11-italaw1826689-pdf.pdf",
+      "doc12-italaw1826690-pdf.pdf",
+      "doc13-italaw1826691-pdf.pdf",
+      "doc14-italaw1826692-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5933": {
+    "caso": "rios-v-chile",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw8994-pdf.pdf",
+      "doc02-italaw9503-pdf.pdf",
+      "doc03-italaw9480-pdf.pdf",
+      "doc04-italaw9519-pdf.pdf",
+      "doc05-italaw9504-pdf.pdf",
+      "doc06-italaw9619-pdf.pdf",
+      "doc07-italaw9807-0-pdf.pdf",
+      "doc08-italaw9808-pdf.pdf",
+      "doc09-italaw9836-pdf.pdf",
+      "doc10-italaw9897-pdf.pdf",
+      "doc11-italaw9935-pdf.pdf",
+      "doc12-italaw10779-pdf.pdf",
+      "doc13-italaw10506-pdf.pdf",
+      "doc14-italaw10780-pdf.pdf",
+      "doc15-italaw10774-pdf.pdf",
+      "doc16-italaw10572-pdf.pdf",
+      "doc17-italaw10573-pdf.pdf",
+      "doc18-italaw10574-pdf.pdf",
+      "doc19-italaw10575-pdf.pdf",
+      "doc20-italaw10505-pdf.pdf",
+      "doc21-italaw10782-pdf.pdf",
+      "doc22-italaw10781-pdf.pdf",
+      "doc23-italaw10783-pdf.pdf",
+      "doc24-italaw10784-pdf.pdf",
+      "doc25-italaw10887-0-pdf.pdf",
+      "doc26-italaw12014-pdf.pdf",
+      "doc27-italaw12013-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5788": {
+    "caso": "rockhopper-v-italy",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw8848-pdf.pdf",
+      "doc02-italaw10646-0-pdf.pdf",
+      "doc03-italaw171214-pdf.pdf",
+      "doc04-italaw1827309653-pdf.pdf",
+      "doc05-italaw1827309654-pdf.pdf",
+      "doc06-italaw171207-pdf.pdf",
+      "doc07-italaw1826895-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7486": {
+    "caso": "the-lopez-goyne-family-trust-and-others-v-nicaragua",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw10700-pdf.pdf",
+      "doc02-italaw10701-pdf.pdf",
+      "doc03-italaw11889-pdf.pdf",
+      "doc04-italaw11890-pdf.pdf",
+      "doc05-italaw16161-pdf.pdf",
+      "doc06-italaw16162-pdf.pdf",
+      "doc07-italaw16337-pdf.pdf",
+      "doc08-italaw16338-pdf.pdf",
+      "doc09-italaw171121-pdf.pdf",
+      "doc10-italaw181306-pdf.pdf",
+      "doc11-italaw171147-pdf.pdf",
+      "doc12-italaw171148-pdf.pdf",
+      "doc13-italaw181304-pdf.pdf",
+      "doc14-italaw181305-pdf.pdf",
+      "doc15-italaw181875-pdf.pdf",
+      "doc16-italaw182476-pdf.pdf",
+      "doc17-italaw1826554-pdf.pdf",
+      "doc18-italaw1826798-pdf.pdf",
+      "doc19-italaw1827086-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6893": {
+    "caso": "vento-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw10009-pdf.pdf",
+      "doc02-italaw10011-pdf.pdf",
+      "doc03-italaw10010-pdf.pdf",
+      "doc04-italaw11902-pdf.pdf",
+      "doc05-italaw11903-pdf.pdf",
+      "doc06-italaw180869-pdf.pdf",
+      "doc07-180385-pdf.pdf",
+      "doc08-italaw181605-pdf.pdf",
+      "doc09-italaw1826559-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5879": {
+    "caso": "alhambra-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw8943-pdf.pdf",
+      "doc02-italaw8944-pdf.pdf",
+      "doc03-italaw181623-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://italaw.com/cases/9423": {
+    "caso": "biram-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw170045-9-pdf.pdf",
+      "doc02-italaw170262-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/4475": {
+    "caso": "bridgestone-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw9250-1-pdf.pdf",
+      "doc02-italaw9249-pdf.pdf",
+      "doc03-italaw9251-pdf.pdf",
+      "doc04-italaw9252-0-pdf.pdf",
+      "doc05-italaw9261-pdf.pdf",
+      "doc06-italaw9292-pdf.pdf",
+      "doc07-italaw9293-pdf.pdf",
+      "doc08-italaw9328-pdf.pdf",
+      "doc09-italaw9340-pdf.pdf",
+      "doc10-italaw9329-pdf.pdf",
+      "doc11-italaw9330-pdf.pdf",
+      "doc12-italaw9341-pdf.pdf",
+      "doc13-italaw9373-pdf.pdf",
+      "doc14-italaw9374-pdf.pdf",
+      "doc15-italaw9453-pdf.pdf",
+      "doc16-italaw9505-pdf.pdf",
+      "doc17-italaw9736-pdf.pdf",
+      "doc18-italaw9943-pdf.pdf",
+      "doc19-italaw9944-0-pdf.pdf",
+      "doc20-italaw10237-pdf.pdf",
+      "doc21-italaw10238-pdf.pdf",
+      "doc22-italaw10239-pdf.pdf",
+      "doc23-italaw10240-pdf.pdf",
+      "doc24-italaw10240-0-pdf.pdf",
+      "doc25-italaw10241-pdf.pdf",
+      "doc26-italaw10321-pdf.pdf",
+      "doc27-italaw10460-pdf.pdf",
+      "doc28-italaw10471-pdf.pdf",
+      "doc29-italaw10472-pdf.pdf",
+      "doc30-italaw10579-pdf.pdf",
+      "doc31-italaw10658-pdf.pdf",
+      "doc32-italaw10659-pdf.pdf",
+      "doc33-italaw10681-pdf.pdf",
+      "doc34-italaw11705-pdf.pdf",
+      "doc35-italaw11705-0-pdf.pdf",
+      "doc36-italaw11705-1-pdf.pdf",
+      "doc37-italaw11705-2-pdf.pdf",
+      "doc38-italaw11705-3-pdf.pdf",
+      "doc39-italaw11705-4-pdf.pdf",
+      "doc40-italaw10927-0-pdf.pdf",
+      "doc41-italaw10926-pdf.pdf",
+      "doc42-italaw11771-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9083": {
+    "caso": "cordoba-beheer-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw170031-0-pdf.pdf",
+      "doc02-italaw170038-pdf.pdf",
+      "doc03-italaw170037-pdf.pdf",
+      "doc04-italaw171006-pdf.pdf",
+      "doc05-18020-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3972": {
+    "caso": "dominion-minerals-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw7189-pdf.pdf",
+      "doc02-italaw7188-pdf.pdf",
+      "doc03-italaw170321-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8031": {
+    "caso": "ebo-invest-and-others-v-latvia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11334-pdf.pdf",
+      "doc02-italaw11335-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8445": {
+    "caso": "espf-and-others-v-italy",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11826-pdf.pdf",
+      "doc02-italaw11827-pdf.pdf",
+      "doc03-180295-pdf.pdf",
+      "doc04-180296-pdf.pdf",
+      "doc05-180294-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8648": {
+    "caso": "eurus-energy-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw16033-pdf.pdf",
+      "doc02-italaw16123-pdf.pdf",
+      "doc03-italaw16124-pdf.pdf",
+      "doc04-italaw16125-pdf.pdf",
+      "doc05-italaw16126-pdf.pdf",
+      "doc06-italaw170807-pdf.pdf",
+      "doc07-italaw1826951-pdf.pdf",
+      "doc08-italaw1826952-pdf.pdf",
+      "doc09-italaw1826953-pdf.pdf",
+      "doc10-italaw1826954-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5910": {
+    "caso": "eyre-and-montrose-developments-v-sri-lanka",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw8975-pdf.pdf",
+      "doc02-italaw8976-pdf.pdf",
+      "doc03-italaw11259-pdf.pdf",
+      "doc04-italaw11260-pdf.pdf",
+      "doc05-italaw11261-pdf.pdf",
+      "doc06-italaw11262-pdf.pdf",
+      "doc07-italaw11263-pdf.pdf",
+      "doc08-italaw11264-pdf.pdf",
+      "doc09-italaw11314-pdf.pdf",
+      "doc10-180490-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7539": {
+    "caso": "glencore-international-and-c-i-prodeco-v-colombia-i",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw10766-pdf.pdf",
+      "doc02-italaw10767-0-pdf.pdf",
+      "doc03-italaw11090-pdf.pdf",
+      "doc04-italaw16308-pdf.pdf",
+      "doc05-italaw16309-pdf.pdf",
+      "doc06-italaw16310-pdf.pdf",
+      "doc07-italaw16311-pdf.pdf",
+      "doc08-italaw170544-pdf.pdf",
+      "doc09-italaw170545-pdf.pdf",
+      "doc10-italaw170536-pdf.pdf",
+      "doc11-italaw170537-pdf.pdf",
+      "doc12-italaw170546-pdf.pdf",
+      "doc13-italaw170547-pdf.pdf",
+      "doc14-italaw170542-0-pdf.pdf",
+      "doc15-italaw170543-0-pdf.pdf",
+      "doc16-italaw170548-pdf.pdf",
+      "doc17-italaw170549-pdf.pdf",
+      "doc18-italaw170538-pdf.pdf",
+      "doc19-italaw170539-pdf.pdf",
+      "doc20-italaw170540-pdf.pdf",
+      "doc21-italaw170541-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/4695": {
+    "caso": "global-telecom-holding-v-canada",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw8634-pdf.pdf",
+      "doc02-italaw7846-pdf.pdf",
+      "doc03-italaw9184-pdf.pdf",
+      "doc04-italaw11429-pdf.pdf",
+      "doc05-italaw11482-pdf.pdf",
+      "doc06-italaw11427-pdf.pdf",
+      "doc07-italaw10155-pdf.pdf",
+      "doc08-italaw11428-pdf.pdf",
+      "doc09-italaw10091-0-pdf.pdf",
+      "doc10-italaw10660-pdf.pdf",
+      "doc11-italaw11426-0-pdf.pdf",
+      "doc12-italaw11268-pdf.pdf",
+      "doc13-italaw11269-pdf.pdf",
+      "doc14-italaw11425-0-pdf.pdf",
+      "doc15-italaw20000-pdf.pdf",
+      "doc16-italaw10661-pdf.pdf",
+      "doc17-italaw11270-pdf.pdf",
+      "doc18-italaw10662-pdf.pdf",
+      "doc19-italaw11271-pdf.pdf",
+      "doc20-italaw11434-pdf.pdf",
+      "doc21-italaw11457-pdf.pdf",
+      "doc22-italaw16171-pdf.pdf",
+      "doc23-italaw16173-0-pdf.pdf",
+      "doc24-italaw16172-pdf.pdf",
+      "doc25-italaw16174-0-pdf.pdf",
+      "doc26-italaw16436-pdf.pdf",
+      "doc27-italaw171181-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/4587": {
+    "status": "ok_icsid",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/europa-occidental/2016-goljevsccek-v-bosnia/ICSID_Convention.pdf",
+    "n_pdfs": 3
+  },
+  "https://www.italaw.com/cases/8062": {
+    "caso": "gosling-and-others-v-mauritius",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw11372-pdf.pdf",
+      "doc02-italaw11379-pdf.pdf",
+      "doc03-italaw11377-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6388": {
+    "caso": "grot-and-others-v-moldova",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw9454-pdf.pdf",
+      "doc02-italaw9455-pdf.pdf",
+      "doc03-italaw9456-pdf.pdf",
+      "doc04-italaw9457-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9078": {
+    "caso": "infracapital-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw170031-pdf.pdf",
+      "doc02-italaw181711-pdf.pdf",
+      "doc03-italaw181710-pdf.pdf",
+      "doc04-italaw170032-pdf.pdf",
+      "doc05-italaw170557-pdf.pdf",
+      "doc06-italaw171392-pdf.pdf",
+      "doc07-180321-pdf.pdf",
+      "doc08-180320-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5327": {
+    "caso": "italba-v-uruguay",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw8475-pdf.pdf",
+      "doc02-italaw10041-pdf.pdf",
+      "doc03-italaw10042-pdf.pdf",
+      "doc04-italaw10043-pdf.pdf",
+      "doc05-italaw10048-pdf.pdf",
+      "doc06-italaw10049-pdf.pdf",
+      "doc07-italaw10022-pdf.pdf",
+      "doc08-italaw10038-pdf.pdf",
+      "doc09-italaw10025-pdf.pdf",
+      "doc10-italaw10036-pdf.pdf",
+      "doc11-italaw10032-pdf.pdf",
+      "doc12-italaw10040-pdf.pdf",
+      "doc13-italaw10044-pdf.pdf",
+      "doc14-italaw10045-pdf.pdf",
+      "doc15-italaw10024-pdf.pdf",
+      "doc16-italaw10027-pdf.pdf",
+      "doc17-italaw10034-pdf.pdf",
+      "doc18-italaw8472-pdf.pdf",
+      "doc19-italaw10020-pdf.pdf",
+      "doc20-italaw10031-pdf.pdf",
+      "doc21-italaw10039-pdf.pdf",
+      "doc22-italaw10046-pdf.pdf",
+      "doc23-italaw10047-pdf.pdf",
+      "doc24-italaw10029-pdf.pdf",
+      "doc25-italaw10030-pdf.pdf",
+      "doc26-italaw10026-pdf.pdf",
+      "doc27-italaw10037-pdf.pdf",
+      "doc28-italaw10021-pdf.pdf",
+      "doc29-italaw10028-pdf.pdf",
+      "doc30-italaw10033-pdf.pdf",
+      "doc31-italaw10050-pdf.pdf",
+      "doc32-italaw10035-pdf.pdf",
+      "doc33-italaw10439-pdf.pdf",
+      "doc34-italaw10912-pdf.pdf",
+      "doc35-italaw11552-pdf.pdf",
+      "doc36-italaw170390-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6640": {
+    "caso": "omega-engineering-and-rivera-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw9737-pdf.pdf",
+      "doc02-italaw9738-pdf.pdf",
+      "doc03-italaw9740-3-pdf.pdf",
+      "doc04-italaw9739-pdf.pdf",
+      "doc05-italaw9741-0-pdf.pdf",
+      "doc06-italaw9742-pdf.pdf",
+      "doc07-italaw10985-pdf.pdf",
+      "doc08-italaw10986-pdf.pdf",
+      "doc09-italaw9743-0-pdf.pdf",
+      "doc10-italaw9744-pdf.pdf",
+      "doc11-italaw10972-pdf.pdf",
+      "doc12-italaw10974-pdf.pdf",
+      "doc13-italaw10973-0-pdf.pdf",
+      "doc14-italaw10975-pdf.pdf",
+      "doc15-italaw10987-pdf.pdf",
+      "doc16-italaw10989-pdf.pdf",
+      "doc17-italaw10988-pdf.pdf",
+      "doc18-italaw10990-pdf.pdf",
+      "doc19-italaw10991-pdf.pdf",
+      "doc20-italaw10992-pdf.pdf",
+      "doc21-italaw10993-pdf.pdf",
+      "doc22-italaw10994-pdf.pdf",
+      "doc23-italaw10995-pdf.pdf",
+      "doc24-italaw10996-pdf.pdf",
+      "doc25-italaw10997-pdf.pdf",
+      "doc26-italaw10977-0-pdf.pdf",
+      "doc27-italaw10982-pdf.pdf",
+      "doc28-italaw181651-pdf.pdf",
+      "doc29-italaw10978-0-pdf.pdf",
+      "doc30-italaw10979-pdf.pdf",
+      "doc31-italaw10980-0-pdf.pdf",
+      "doc32-italaw10981-1-pdf.pdf",
+      "doc33-italaw10983-pdf.pdf",
+      "doc34-italaw10976-pdf.pdf",
+      "doc35-italaw10984-pdf.pdf",
+      "doc36-italaw181652-pdf.pdf",
+      "doc37-italaw181653-pdf.pdf",
+      "doc38-italaw181654-pdf.pdf",
+      "doc39-italaw181655-pdf.pdf",
+      "doc40-italaw181656-pdf.pdf",
+      "doc41-italaw181657-pdf.pdf",
+      "doc42-italaw181657-0-pdf.pdf",
+      "doc43-italaw10971-1-pdf.pdf",
+      "doc44-italaw181658-pdf.pdf",
+      "doc45-italaw181659-pdf.pdf",
+      "doc46-italaw181660-pdf.pdf",
+      "doc47-italaw181661-pdf.pdf",
+      "doc48-italaw181662-pdf.pdf",
+      "doc49-italaw181664-pdf.pdf",
+      "doc50-italaw181665-pdf.pdf",
+      "doc51-italaw181666-pdf.pdf",
+      "doc52-italaw11189-pdf.pdf",
+      "doc53-italaw11190-pdf.pdf",
+      "doc54-italaw181669-pdf.pdf",
+      "doc55-italaw181670-pdf.pdf",
+      "doc56-italaw181671-pdf.pdf",
+      "doc57-italaw181667-pdf.pdf",
+      "doc58-italaw181672-pdf.pdf",
+      "doc59-italaw181673-pdf.pdf",
+      "doc60-italaw181674-pdf.pdf",
+      "doc61-italaw181675-pdf.pdf",
+      "doc62-italaw181676-pdf.pdf",
+      "doc63-italaw181677-pdf.pdf",
+      "doc64-italaw181678-pdf.pdf",
+      "doc65-italaw181679-pdf.pdf",
+      "doc66-italaw181681-pdf.pdf",
+      "doc67-italaw181680-pdf.pdf",
+      "doc68-italaw181682-pdf.pdf",
+      "doc69-italaw181685-pdf.pdf",
+      "doc70-italaw181683-pdf.pdf",
+      "doc71-italaw181684-pdf.pdf",
+      "doc72-italaw11820-pdf.pdf",
+      "doc73-italaw11821-pdf.pdf",
+      "doc74-italaw181686-pdf.pdf",
+      "doc75-italaw181687-pdf.pdf",
+      "doc76-italaw181688-pdf.pdf",
+      "doc77-italaw181689-pdf.pdf",
+      "doc78-italaw181691-pdf.pdf",
+      "doc79-italaw181690-pdf.pdf",
+      "doc80-180624-pdf.pdf",
+      "doc81-italaw181692-pdf.pdf",
+      "doc82-italaw181693-pdf.pdf",
+      "doc83-italaw181694-pdf.pdf",
+      "doc84-italaw181695-pdf.pdf",
+      "doc85-italaw181696-pdf.pdf",
+      "doc86-italaw181697-pdf.pdf",
+      "doc87-italaw182146-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5408": {
+    "caso": "safa-v-greece",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw8549-pdf.pdf",
+      "doc02-italaw1826628-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7374": {
+    "caso": "9ren-holding-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10564-pdf.pdf",
+      "doc02-italaw10565-pdf.pdf",
+      "doc03-italaw10566-pdf.pdf",
+      "doc04-italaw10640-pdf.pdf",
+      "doc05-italaw181247-pdf.pdf",
+      "doc06-italaw11837-pdf.pdf",
+      "doc07-italaw181245-pdf.pdf",
+      "doc08-italaw181246-pdf.pdf",
+      "doc09-italaw181244-pdf.pdf",
+      "doc10-italaw181243-pdf.pdf",
+      "doc11-italaw181242-pdf.pdf",
+      "doc12-italaw181240-pdf.pdf",
+      "doc13-italaw181239-pdf.pdf",
+      "doc14-italaw181238-pdf.pdf",
+      "doc15-italaw170813-pdf.pdf",
+      "doc16-italaw170888-pdf.pdf",
+      "doc17-italaw171238-pdf.pdf",
+      "doc18-italaw170889-pdf.pdf",
+      "doc19-italaw171099-pdf.pdf",
+      "doc20-italaw171357-pdf.pdf",
+      "doc21-italaw171358-pdf.pdf",
+      "doc22-italaw181234-pdf.pdf",
+      "doc23-italaw181235-pdf.pdf",
+      "doc24-italaw181236-pdf.pdf",
+      "doc25-180155-pdf.pdf",
+      "doc26-180666-pdf.pdf",
+      "doc27-italaw180929-pdf.pdf",
+      "doc28-italaw182150-pdf.pdf",
+      "doc29-italaw182152-pdf.pdf",
+      "doc30-italaw182151-pdf.pdf",
+      "doc31-italaw182148-pdf.pdf",
+      "doc32-italaw182160-pdf.pdf",
+      "doc33-italaw182182-pdf.pdf",
+      "doc34-italaw182494-pdf.pdf",
+      "doc35-italaw1827287-pdf.pdf",
+      "doc36-italaw1827290-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3989": {
+    "caso": "alvarez-y-marin-corporacion-and-others-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw7214-pdf.pdf",
+      "doc02-italaw7215-pdf.pdf",
+      "doc03-italaw7216-pdf.pdf",
+      "doc04-italaw10491-pdf.pdf",
+      "doc05-italaw10492-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7698": {
+    "caso": "baywa-r-e-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10952-pdf.pdf",
+      "doc02-italaw15000-pdf.pdf",
+      "doc03-italaw15001-pdf.pdf",
+      "doc04-italaw16179-pdf.pdf",
+      "doc05-italaw16180-pdf.pdf",
+      "doc06-italaw171000-pdf.pdf",
+      "doc07-italaw170569-pdf.pdf",
+      "doc08-italaw171383-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7532": {
+    "caso": "belenergia-v-italy",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10759-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5954": {
+    "caso": "capital-financial-holdings-v-cameroon",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw9016-pdf.pdf",
+      "doc02-italaw9017-pdf.pdf",
+      "doc03-italaw9018-pdf.pdf",
+      "doc04-italaw10876-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8480": {
+    "caso": "cavalum-sgps-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11862-pdf.pdf",
+      "doc02-italaw181714-pdf.pdf",
+      "doc03-italaw181713-pdf.pdf",
+      "doc04-italaw170042-pdf.pdf",
+      "doc05-italaw170640-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/3974": {
+    "caso": "cortec-mining-v-kenya",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw7191-pdf.pdf",
+      "doc02-italaw7190-pdf.pdf",
+      "doc03-italaw7290-pdf.pdf",
+      "doc04-italaw7390-pdf.pdf",
+      "doc05-italaw7539-pdf.pdf",
+      "doc06-italaw9465-pdf.pdf",
+      "doc07-italaw9466-pdf.pdf",
+      "doc08-italaw9467-pdf.pdf",
+      "doc09-italaw9468-pdf.pdf",
+      "doc10-italaw10051-pdf.pdf",
+      "doc11-italaw10437-pdf.pdf",
+      "doc12-italaw11814-pdf.pdf",
+      "doc13-italaw11815-0-pdf.pdf",
+      "doc14-italaw181137-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7477": {
+    "caso": "cube-infrastructure-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10691-0-pdf.pdf",
+      "doc02-italaw10692-pdf.pdf",
+      "doc03-italaw10693-pdf.pdf",
+      "doc04-italaw10694-pdf.pdf",
+      "doc05-italaw11760-pdf.pdf",
+      "doc06-italaw11761-pdf.pdf",
+      "doc07-italaw11564-pdf.pdf",
+      "doc08-italaw16538-pdf.pdf",
+      "doc09-italaw171185-pdf.pdf",
+      "doc10-italaw1826503-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5895": {
+    "caso": "eskosol-v-italy",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw8960-0-pdf.pdf",
+      "doc02-italaw8961-pdf.pdf",
+      "doc03-italaw8996-pdf.pdf",
+      "doc04-italaw10512-pdf.pdf",
+      "doc05-italaw11779-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/3958": {
+    "caso": "hydro-and-others-v-albania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw7168-pdf.pdf",
+      "doc02-italaw7167-pdf.pdf",
+      "doc03-italaw7644-pdf.pdf",
+      "doc04-italaw7643-pdf.pdf",
+      "doc05-italaw182730954-pdf.pdf",
+      "doc06-italaw12023-pdf.pdf",
+      "doc07-italaw12022-pdf.pdf",
+      "doc08-italaw182730953-pdf.pdf",
+      "doc09-italaw170253-pdf.pdf",
+      "doc10-italaw170817-pdf.pdf",
+      "doc11-italaw171182-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7980": {
+    "caso": "hydro-energy-1-and-hydroxana-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11281-pdf.pdf",
+      "doc02-italaw170231-pdf.pdf",
+      "doc03-italaw170232-pdf.pdf",
+      "doc04-italaw170233-pdf.pdf",
+      "doc05-italaw11282-pdf.pdf",
+      "doc06-italaw170209-pdf.pdf",
+      "doc07-italaw170230-pdf.pdf",
+      "doc08-italaw170254-pdf.pdf",
+      "doc09-italaw170207-0-pdf.pdf",
+      "doc10-italaw170234-pdf.pdf",
+      "doc11-italaw170235-pdf.pdf",
+      "doc12-italaw170236-pdf.pdf",
+      "doc13-italaw170237-pdf.pdf",
+      "doc14-italaw170238-pdf.pdf",
+      "doc15-italaw170240-pdf.pdf",
+      "doc16-italaw170239-pdf.pdf",
+      "doc17-italaw170242-pdf.pdf",
+      "doc18-italaw170241-pdf.pdf",
+      "doc19-italaw170243-pdf.pdf",
+      "doc20-italaw170401-pdf.pdf",
+      "doc21-italaw171189-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6486": {
+    "caso": "kruck-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw9560-pdf.pdf",
+      "doc02-italaw9561-pdf.pdf",
+      "doc03-italaw170774-pdf.pdf",
+      "doc04-italaw170773-pdf.pdf",
+      "doc05-180340-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3828": {
+    "caso": "lion-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-ita-20law-207029-0-pdf.pdf",
+      "doc02-italaw7835-1-pdf.pdf",
+      "doc03-italaw7836-pdf.pdf",
+      "doc04-7250-pdf.pdf",
+      "doc05-italaw8969-pdf.pdf",
+      "doc06-italaw8970-pdf.pdf",
+      "doc07-italaw7935-1-pdf.pdf",
+      "doc08-italaw7936-1-pdf.pdf",
+      "doc09-italaw7937-pdf.pdf",
+      "doc10-italaw8971-pdf.pdf",
+      "doc11-italaw8972-pdf.pdf",
+      "doc12-italaw8953-pdf.pdf",
+      "doc13-italaw9053-pdf.pdf",
+      "doc14-italaw9534-pdf.pdf",
+      "doc15-italaw9535-pdf.pdf",
+      "doc16-italaw9536-pdf.pdf",
+      "doc17-italaw9537-0-pdf.pdf",
+      "doc18-italaw9861-pdf.pdf",
+      "doc19-italaw9920-0-pdf.pdf",
+      "doc20-italaw9945-pdf.pdf",
+      "doc21-italaw10234-pdf.pdf",
+      "doc22-italaw10824-pdf.pdf",
+      "doc23-italaw10626-pdf.pdf",
+      "doc24-italaw16302-pdf.pdf",
+      "doc25-italaw16303-pdf.pdf",
+      "doc26-italaw170651-pdf.pdf",
+      "doc27-italaw170648-pdf.pdf",
+      "doc28-italaw170654-pdf.pdf",
+      "doc29-italaw170647-pdf.pdf",
+      "doc30-italaw170652-pdf.pdf",
+      "doc31-italaw170653-pdf.pdf",
+      "doc32-italaw170649-pdf.pdf",
+      "doc33-italaw170655-pdf.pdf",
+      "doc34-italaw170650-pdf.pdf",
+      "doc35-italaw182439-pdf.pdf",
+      "doc36-italaw182491-pdf.pdf",
+      "doc37-italaw180890-20-20lion-20v-20mexico-2c-20opinion-20of-20the-.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3792": {
+    "caso": "mmea-and-ahsi-v-senegal",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-netherlands-20-20senegal-20bit-20-281979-29-pdf.pdf",
+      "doc02-senegal-united-20kingdom-20bit-20-281980-29-pdf.pdf",
+      "doc03-gats-pdf.pdf",
+      "doc04-ita-20law-207003-pdf.pdf",
+      "doc05-ita-20law-207004-pdf.pdf",
+      "doc06-italaw7483-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/3998": {
+    "caso": "operafund-and-schwab-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-90678-0-pdf.pdf",
+      "doc02-italaw181632-pdf.pdf",
+      "doc03-italaw181633-pdf.pdf",
+      "doc04-italaw181630-pdf.pdf",
+      "doc05-italaw181631-pdf.pdf",
+      "doc06-italaw1826887-pdf.pdf",
+      "doc07-italaw181634-pdf.pdf",
+      "doc08-italaw171110-pdf.pdf",
+      "doc09-italaw171382-pdf.pdf",
+      "doc10-180639-pdf.pdf",
+      "doc11-italaw1826888-pdf.pdf",
+      "doc12-italaw1827171-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7593": {
+    "caso": "soles-badajoz-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10835-pdf.pdf",
+      "doc02-italaw10836-pdf.pdf",
+      "doc03-italaw11767-pdf.pdf",
+      "doc04-italaw170065-pdf.pdf",
+      "doc05-italaw170065-0-pdf.pdf",
+      "doc06-italaw170064-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7791": {
+    "caso": "stadtwerke-munchen-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11055-pdf.pdf",
+      "doc02-italaw11056-pdf.pdf",
+      "doc03-italaw11057-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8512": {
+    "caso": "steag-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11899-pdf.pdf",
+      "doc02-italaw11900-pdf.pdf",
+      "doc03-italaw11901-pdf.pdf",
+      "doc04-italaw1826889-pdf.pdf",
+      "doc05-italaw1826894-pdf.pdf",
+      "doc06-italaw1826890-pdf.pdf",
+      "doc07-italaw1826891-pdf.pdf",
+      "doc08-italaw170692-pdf.pdf",
+      "doc09-italaw1826892-pdf.pdf",
+      "doc10-italaw1826893-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8447": {
+    "caso": "strabag-v-libya",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw11828-pdf.pdf",
+      "doc02-italaw182262-pdf.pdf",
+      "doc03-italaw11830-pdf.pdf",
+      "doc04-italaw11829-pdf.pdf",
+      "doc05-italaw11831-pdf.pdf",
+      "doc06-italaw180845-pdf.pdf",
+      "doc07-italaw170277-pdf.pdf",
+      "doc08-italaw181770-pdf.pdf",
+      "doc09-italaw182263-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/3996": {
+    "caso": "watkins-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-90678-pdf.pdf",
+      "doc02-italaw181362-pdf.pdf",
+      "doc03-italaw1826587-pdf.pdf",
+      "doc04-italaw1826588-pdf.pdf",
+      "doc05-italaw1826589-pdf.pdf",
+      "doc06-italaw1826590-pdf.pdf",
+      "doc07-italaw1826591-pdf.pdf",
+      "doc08-italaw11235-pdf.pdf",
+      "doc09-italaw11234-0-pdf.pdf",
+      "doc10-italaw1826592-pdf.pdf",
+      "doc11-italaw11742-pdf.pdf",
+      "doc12-italaw171102-pdf.pdf",
+      "doc13-18044-pdf.pdf",
+      "doc14-italaw1826586-pdf.pdf",
+      "doc15-italaw1827288-pdf.pdf",
+      "doc16-italaw1827293-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5927": {
+    "caso": "alpiq-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw8992-pdf.pdf",
+      "doc02-italaw8993-pdf.pdf",
+      "doc03-italaw181123-pdf.pdf",
+      "doc04-italaw181122-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2513": {
+    "caso": "anglo-american-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6252-pdf.pdf",
+      "doc02-italaw10294-2-pdf.pdf",
+      "doc03-italaw10293-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5391": {
+    "caso": "ansung-housing-v-china",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw8537-pdf.pdf",
+      "doc02-italaw8538-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2848": {
+    "caso": "bear-creek-mining-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6056-pdf.pdf",
+      "doc02-italaw4115-pdf.pdf",
+      "doc03-italaw4332-pdf.pdf",
+      "doc04-italaw4458-pdf.pdf",
+      "doc05-italaw4459-pdf.pdf",
+      "doc06-italaw4460-pdf.pdf",
+      "doc07-italaw4461-pdf.pdf",
+      "doc08-italaw4462-pdf.pdf",
+      "doc09-italaw4463-pdf.pdf",
+      "doc10-italaw4464-pdf.pdf",
+      "doc11-italaw4465-pdf.pdf",
+      "doc12-italaw4481-pdf.pdf",
+      "doc13-italaw4482-pdf.pdf",
+      "doc14-italaw4483-pdf.pdf",
+      "doc15-italaw4466-pdf.pdf",
+      "doc16-italaw4468-pdf.pdf",
+      "doc17-italaw4469-pdf.pdf",
+      "doc18-italaw4470-pdf.pdf",
+      "doc19-italaw4471-pdf.pdf",
+      "doc20-italaw4472-pdf.pdf",
+      "doc21-italaw4473-pdf.pdf",
+      "doc22-italaw4474-pdf.pdf",
+      "doc23-italaw4475-pdf.pdf",
+      "doc24-italaw4476-pdf.pdf",
+      "doc25-italaw4477-0-pdf.pdf",
+      "doc26-italaw4478-0-pdf.pdf",
+      "doc27-italaw4431-pdf.pdf",
+      "doc28-italaw9196-pdf.pdf",
+      "doc29-italaw11137-pdf.pdf",
+      "doc30-italaw11138-pdf.pdf",
+      "doc31-italaw7064-pdf.pdf",
+      "doc32-italaw7065-pdf.pdf",
+      "doc33-italaw7066-pdf.pdf",
+      "doc34-italaw7067-pdf.pdf",
+      "doc35-italaw7068-pdf.pdf",
+      "doc36-italaw7073-pdf.pdf",
+      "doc37-italaw11133-0-pdf.pdf",
+      "doc38-italaw11134-pdf.pdf",
+      "doc39-italaw11135-pdf.pdf",
+      "doc40-italaw11136-pdf.pdf",
+      "doc41-italaw7283-pdf.pdf",
+      "doc42-italaw7284-pdf.pdf",
+      "doc43-italaw7266-pdf.pdf",
+      "doc44-italaw7269-pdf.pdf",
+      "doc45-italaw7270-pdf.pdf",
+      "doc46-italaw7271-pdf.pdf",
+      "doc47-italaw7272-pdf.pdf",
+      "doc48-italaw7273-pdf.pdf",
+      "doc49-italaw7274-pdf.pdf",
+      "doc50-italaw7275-pdf.pdf",
+      "doc51-italaw7276-pdf.pdf",
+      "doc52-italaw7277-pdf.pdf",
+      "doc53-italaw7278-pdf.pdf",
+      "doc54-italaw7279-pdf.pdf",
+      "doc55-italaw7280-pdf.pdf",
+      "doc56-italaw7281-pdf.pdf",
+      "doc57-italaw7282-pdf.pdf",
+      "doc58-italaw7517-pdf.pdf",
+      "doc59-italaw7518-pdf.pdf",
+      "doc60-italaw8484-pdf.pdf",
+      "doc61-italaw8485-pdf.pdf",
+      "doc62-italaw8486-pdf.pdf",
+      "doc63-italaw8480-pdf.pdf",
+      "doc64-italaw8481-pdf.pdf",
+      "doc65-italaw7514-1-pdf.pdf",
+      "doc66-italaw7515-pdf.pdf",
+      "doc67-italaw7516-pdf.pdf",
+      "doc68-italaw7447-pdf.pdf",
+      "doc69-italaw7448-pdf.pdf",
+      "doc70-italaw7511-pdf.pdf",
+      "doc71-italaw7519-pdf.pdf",
+      "doc72-italaw7520-pdf.pdf",
+      "doc73-italaw7521-pdf.pdf",
+      "doc74-italaw7522-pdf.pdf",
+      "doc75-italaw7541-pdf.pdf",
+      "doc76-italaw8483-pdf.pdf",
+      "doc77-italaw8482-pdf.pdf",
+      "doc78-italaw9014-pdf.pdf",
+      "doc79-italaw9015-pdf.pdf",
+      "doc80-italaw9381-pdf.pdf",
+      "doc81-italaw9382-pdf.pdf",
+      "doc82-italaw10107-pdf.pdf",
+      "doc83-italaw10108-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7663": {
+    "caso": "besserglik-v-mozambique",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw10915-pdf.pdf",
+      "doc02-italaw10916-pdf.pdf",
+      "doc03-italaw10917-pdf.pdf",
+      "doc04-italaw10918-pdf.pdf",
+      "doc05-italaw10919-0-pdf.pdf",
+      "doc06-italaw10920-pdf.pdf",
+      "doc07-italaw10921-pdf.pdf",
+      "doc08-italaw10922-0-pdf.pdf",
+      "doc09-italaw10923-pdf.pdf",
+      "doc10-italaw10924-pdf.pdf",
+      "doc11-italaw10925-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5739": {
+    "caso": "blusun-v-italy",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw8805-pdf.pdf",
+      "doc02-italaw8967-pdf.pdf",
+      "doc03-italaw11418-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6924": {
+    "caso": "casinos-austria-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw10052-pdf.pdf",
+      "doc02-italaw10055-pdf.pdf",
+      "doc03-italaw10056-pdf.pdf",
+      "doc04-italaw10053-pdf.pdf",
+      "doc05-italaw10054-pdf.pdf",
+      "doc06-italaw16357-pdf.pdf",
+      "doc07-italaw16358-pdf.pdf",
+      "doc08-italaw16359-pdf.pdf",
+      "doc09-italaw16360-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2463": {
+    "caso": "ceac-v-montenegro",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6076-pdf.pdf",
+      "doc02-italaw181426-pdf.pdf",
+      "doc03-italaw7456-pdf.pdf",
+      "doc04-italaw10148-pdf.pdf",
+      "doc05-italaw7869-pdf.pdf",
+      "doc06-italaw9645-pdf.pdf",
+      "doc07-italaw181425-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8149": {
+    "caso": "city-state-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw11472-pdf.pdf",
+      "doc02-italaw11473-pdf.pdf",
+      "doc03-italaw171152-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2690": {
+    "caso": "corona-materials-v-dominican-republic",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6049-283-29-pdf.pdf",
+      "doc02-italaw3302-pdf.pdf",
+      "doc03-italaw3303-pdf.pdf",
+      "doc04-italaw7963-pdf.pdf",
+      "doc05-italaw7963-0-pdf.pdf",
+      "doc06-italaw7962-pdf.pdf",
+      "doc07-ita-20law-207013-pdf.pdf",
+      "doc08-italaw7178-pdf.pdf",
+      "doc09-italaw7964-pdf.pdf",
+      "doc10-italaw7965-pdf.pdf",
+      "doc11-italaw7966-pdf.pdf",
+      "doc12-italaw7967-pdf.pdf",
+      "doc13-italaw7173-pdf.pdf",
+      "doc14-italaw7177-5-pdf.pdf",
+      "doc15-italaw7261-pdf.pdf",
+      "doc16-italaw7262-pdf.pdf",
+      "doc17-italaw7314-pdf.pdf",
+      "doc18-italaw7968-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3210": {
+    "caso": "eurogas-and-belmont-v-slovakia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6258-0-pdf.pdf",
+      "doc02-italaw6259-0-pdf.pdf",
+      "doc03-italaw6260-pdf.pdf",
+      "doc04-italaw6261-pdf.pdf",
+      "doc05-italaw6262-pdf.pdf",
+      "doc06-italaw6263-pdf.pdf",
+      "doc07-italaw6264-pdf.pdf",
+      "doc08-italaw6265-pdf.pdf",
+      "doc09-italaw6266-pdf.pdf",
+      "doc10-italaw6267-pdf.pdf",
+      "doc11-italaw6268-pdf.pdf",
+      "doc12-italaw6269-pdf.pdf",
+      "doc13-italaw6270-pdf.pdf",
+      "doc14-italaw6271-pdf.pdf",
+      "doc15-italaw6272-0-pdf.pdf",
+      "doc16-italaw6273-pdf.pdf",
+      "doc17-italaw4416-pdf.pdf",
+      "doc18-italaw4417-pdf.pdf",
+      "doc19-italaw4418-pdf.pdf",
+      "doc20-italaw4419-pdf.pdf",
+      "doc21-italaw4420-pdf.pdf",
+      "doc22-italaw4421-pdf.pdf",
+      "doc23-italaw7040-pdf.pdf",
+      "doc24-italaw7041-0-pdf.pdf",
+      "doc25-italaw7589-0-pdf.pdf",
+      "doc26-italaw7590-pdf.pdf",
+      "doc27-italaw7591-pdf.pdf",
+      "doc28-italaw7877-pdf.pdf",
+      "doc29-italaw7878-0-pdf.pdf",
+      "doc30-italaw7879-0-pdf.pdf",
+      "doc31-italaw7880-pdf.pdf",
+      "doc32-italaw7881-pdf.pdf",
+      "doc33-italaw7881-0-pdf.pdf",
+      "doc34-italaw7757-pdf.pdf",
+      "doc35-italaw9275-0-pdf.pdf",
+      "doc36-italaw9279-pdf.pdf",
+      "doc37-italaw10897-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2258": {
+    "caso": "infinito-gold-v-costa-rica",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6052-282-29-0-pdf.pdf",
+      "doc02-italaw3016-pdf.pdf",
+      "doc03-italaw3118-pdf.pdf",
+      "doc04-italaw4014-pdf.pdf",
+      "doc05-italaw4013-pdf.pdf",
+      "doc06-italaw16220-pdf.pdf",
+      "doc07-italaw16230-pdf.pdf",
+      "doc08-italaw7339-pdf.pdf",
+      "doc09-italaw16221-pdf.pdf",
+      "doc10-italaw16222-pdf.pdf",
+      "doc11-italaw9384-pdf.pdf",
+      "doc12-italaw16223-pdf.pdf",
+      "doc13-italaw16225-pdf.pdf",
+      "doc14-italaw16226-pdf.pdf",
+      "doc15-italaw16224-pdf.pdf",
+      "doc16-italaw16227-pdf.pdf",
+      "doc17-italaw16228-pdf.pdf",
+      "doc18-italaw16219-pdf.pdf",
+      "doc19-italaw16229-pdf.pdf",
+      "doc20-italaw182018-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/8049": {
+    "caso": "infrared-and-others-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11359-pdf.pdf",
+      "doc02-italaw11360-pdf.pdf",
+      "doc03-italaw11361-pdf.pdf",
+      "doc04-italaw11362-pdf.pdf",
+      "doc05-italaw11967-pdf.pdf",
+      "doc06-italaw16214-2-pdf.pdf",
+      "doc07-italaw170555-pdf.pdf",
+      "doc08-italaw170294-pdf.pdf",
+      "doc09-italaw170448-pdf.pdf",
+      "doc10-italaw171254-pdf.pdf",
+      "doc11-italaw171255-pdf.pdf",
+      "doc12-italaw182625-pdf.pdf",
+      "doc13-italaw1827309618-pdf.pdf",
+      "doc14-italaw1827309619-pdf.pdf",
+      "doc15-italaw1827239-pdf.pdf",
+      "doc16-italaw1827243-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6782": {
+    "caso": "krederi-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw9890-pdf.pdf",
+      "doc02-italaw11040-pdf.pdf",
+      "doc03-italaw9891-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6608": {
+    "caso": "masdar-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11492-pdf.pdf",
+      "doc02-italaw11493-pdf.pdf",
+      "doc03-italaw9710-pdf.pdf",
+      "doc04-italaw10135-pdf.pdf",
+      "doc05-italaw9983-pdf.pdf",
+      "doc06-italaw11491-pdf.pdf",
+      "doc07-italaw10826-pdf.pdf",
+      "doc08-italaw11529-pdf.pdf",
+      "doc09-italaw11528-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/7982": {
+    "caso": "micula-v-romania-ii",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11283-pdf.pdf",
+      "doc02-italaw11284-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2585": {
+    "caso": "nextera-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6101-2828-29-pdf.pdf",
+      "doc02-italaw182167-pdf.pdf",
+      "doc03-italaw10569-pdf.pdf",
+      "doc04-italaw10568-pdf.pdf",
+      "doc05-italaw10570-pdf.pdf",
+      "doc06-italaw11417-pdf.pdf",
+      "doc07-italaw11629-pdf.pdf",
+      "doc08-italaw11841-pdf.pdf",
+      "doc09-italaw16524-pdf.pdf",
+      "doc10-italaw170884-pdf.pdf",
+      "doc11-italaw171230-pdf.pdf",
+      "doc12-italaw171231-pdf.pdf",
+      "doc13-italaw170885-pdf.pdf",
+      "doc14-italaw171229-pdf.pdf",
+      "doc15-italaw171100-pdf.pdf",
+      "doc16-italaw171358-0-pdf.pdf",
+      "doc17-18041-pdf.pdf",
+      "doc18-18042-pdf.pdf",
+      "doc19-180157-pdf.pdf",
+      "doc20-180158-pdf.pdf",
+      "doc21-180159-pdf.pdf",
+      "doc22-180647-pdf.pdf",
+      "doc23-italaw180928-pdf.pdf",
+      "doc24-italaw182153-pdf.pdf",
+      "doc25-italaw182154-pdf.pdf",
+      "doc26-italaw182155-pdf.pdf",
+      "doc27-italaw182156-pdf.pdf",
+      "doc28-italaw182095-pdf.pdf",
+      "doc29-italaw182159-pdf.pdf",
+      "doc30-italaw182181-pdf.pdf",
+      "doc31-italaw182493-pdf.pdf",
+      "doc32-italaw1827286-pdf.pdf",
+      "doc33-italaw1827291-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/9415": {
+    "caso": "renergy-v-spain",
+    "error": "sin PDF en ICSID",
+    "ok": false
+  },
+  "https://www.italaw.com/cases/7743": {
+    "caso": "rwe-innogy-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw11003-pdf.pdf",
+      "doc02-italaw11004-pdf.pdf",
+      "doc03-italaw16136-pdf.pdf",
+      "doc04-italaw16137-pdf.pdf",
+      "doc05-italaw171289-pdf.pdf",
+      "doc06-italaw171290-pdf.pdf",
+      "doc07-italaw171351-pdf.pdf",
+      "doc08-italaw171377-pdf.pdf",
+      "doc09-180799-pdf.pdf",
+      "doc10-italaw181038-pdf.pdf",
+      "doc11-italaw181037-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6976": {
+    "caso": "sodexo-pass-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10109-pdf.pdf",
+      "doc02-italaw10110-pdf.pdf",
+      "doc03-italaw10112-pdf.pdf",
+      "doc04-italaw10113-pdf.pdf",
+      "doc05-180554-pdf.pdf",
+      "doc06-180517-pdf.pdf",
+      "doc07-italaw16235-pdf.pdf",
+      "doc08-italaw16236-pdf.pdf",
+      "doc09-italaw16237-pdf.pdf",
+      "doc10-italaw16238-pdf.pdf",
+      "doc11-italaw16239-pdf.pdf",
+      "doc12-italaw16240-pdf.pdf",
+      "doc13-italaw16241-pdf.pdf",
+      "doc14-180517-0-pdf.pdf",
+      "doc15-italaw16454-pdf.pdf",
+      "doc16-italaw16540-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2456": {
+    "caso": "union-fenosa-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6094-pdf.pdf",
+      "doc02-italaw10138-pdf.pdf",
+      "doc03-italaw10061-pdf.pdf",
+      "doc04-italaw10062-pdf.pdf",
+      "doc05-italaw10012-pdf.pdf",
+      "doc06-italaw11155-pdf.pdf",
+      "doc07-italaw11154-pdf.pdf",
+      "doc08-italaw11336-pdf.pdf",
+      "doc09-italaw11694-pdf.pdf",
+      "doc10-italaw11692-pdf.pdf",
+      "doc11-italaw11693-pdf.pdf",
+      "doc12-italaw11691-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/3147": {
+    "caso": "united-utilities-v-estonia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6188-pdf.pdf",
+      "doc02-italaw4329-pdf.pdf",
+      "doc03-italaw4351-pdf.pdf",
+      "doc04-italaw4330-pdf.pdf",
+      "doc05-italaw7289-pdf.pdf",
+      "doc06-italaw7302-pdf.pdf",
+      "doc07-italaw9936-0-pdf.pdf",
+      "doc08-italaw10649-pdf.pdf",
+      "doc09-italaw10648-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6953": {
+    "caso": "zelena-v-serbia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10089-pdf.pdf",
+      "doc02-italaw10090-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6361": {
+    "caso": "alghanim-v-jordan",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "https://www.italaw.com/cases/11082": {
+    "caso": "cementos-la-union-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-180525-pdf.pdf",
+      "doc02-180526-pdf.pdf",
+      "doc03-180527-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2125": {
+    "caso": "cervin-and-rhone-v-costa-rica",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6070-pdf.pdf",
+      "doc02-italaw9213-0-pdf.pdf",
+      "doc03-italaw9216-pdf.pdf",
+      "doc04-italaw9217-pdf.pdf",
+      "doc05-italaw9218-pdf.pdf",
+      "doc06-italaw4082-pdf.pdf",
+      "doc07-italaw4081-pdf.pdf",
+      "doc08-italaw9214-pdf.pdf",
+      "doc09-italaw9215-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2235": {
+    "caso": "edenred-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6110-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5721": {
+    "caso": "eiser-and-energia-solar-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/2171": {
+    "caso": "evn-v-bulgaria",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6024-pdf.pdf",
+      "doc02-italaw6101-2819-29-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2221": {
+    "status": "ok_icsid",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/este-europa-asia-central/2013-gunes-tekstil-v-uzbekistan/ICSID_Convention.pdf",
+    "n_pdfs": 3
+  },
+  "http://www.italaw.com/cases/2062": {
+    "caso": "houben-v-burundi",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6032-pdf.pdf",
+      "doc02-italaw7220-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2319": {
+    "caso": "infrastructure-services-and-energia-termosolar-formerly-anti",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw9875-pdf.pdf",
+      "doc02-italaw9876-pdf.pdf",
+      "doc03-italaw9877-pdf.pdf",
+      "doc04-italaw10891-pdf.pdf",
+      "doc05-italaw10735-pdf.pdf",
+      "doc06-italaw10889-pdf.pdf",
+      "doc07-italaw16542-pdf.pdf",
+      "doc08-italaw16543-pdf.pdf",
+      "doc09-italaw16544-pdf.pdf",
+      "doc10-italaw16545-pdf.pdf",
+      "doc11-italaw16546-pdf.pdf",
+      "doc12-italaw1826830-pdf.pdf",
+      "doc13-italaw16547-pdf.pdf",
+      "doc14-italaw181476-pdf.pdf",
+      "doc15-italaw181476-0-pdf.pdf",
+      "doc16-italaw181477-pdf.pdf",
+      "doc17-italaw181475-pdf.pdf",
+      "doc18-italaw181478-pdf.pdf",
+      "doc19-italaw181479-pdf.pdf",
+      "doc20-italaw171028-pdf.pdf",
+      "doc21-italaw181480-pdf.pdf",
+      "doc22-italaw181482-pdf.pdf",
+      "doc23-italaw181483-pdf.pdf",
+      "doc24-italaw181481-pdf.pdf",
+      "doc25-italaw181484-pdf.pdf",
+      "doc26-italaw181486-pdf.pdf",
+      "doc27-italaw181485-pdf.pdf",
+      "doc28-italaw171029-pdf.pdf",
+      "doc29-italaw171352-pdf.pdf",
+      "doc30-italaw180818-pdf.pdf",
+      "doc31-180645-pdf.pdf",
+      "doc32-italaw182264-pdf.pdf",
+      "doc33-italaw182265-pdf.pdf",
+      "doc34-italaw182385-pdf.pdf",
+      "doc35-italaw1826504-pdf.pdf",
+      "doc36-italaw1826831-pdf.pdf",
+      "doc37-italaw1826832-pdf.pdf",
+      "doc38-italaw1826833-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2024": {
+    "caso": "karkey-karadeniz-v-pakistan",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6214-281-29-pdf.pdf",
+      "doc02-italaw9767-pdf.pdf",
+      "doc03-italaw9800-0-pdf.pdf",
+      "doc04-italaw10181-pdf.pdf",
+      "doc05-italaw9768-pdf.pdf",
+      "doc06-italaw10182-pdf.pdf",
+      "doc07-italaw10487-pdf.pdf",
+      "doc08-italaw10463-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2068": {
+    "caso": "marfin-v-cyprus",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6073-281-29-pdf.pdf",
+      "doc02-italaw10149-pdf.pdf",
+      "doc03-italaw9885-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2516": {
+    "caso": "mol-v-croatia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6101-2827-29-0-pdf.pdf",
+      "doc02-italaw181583-pdf.pdf",
+      "doc03-italaw181584-pdf.pdf",
+      "doc04-italaw181585-pdf.pdf",
+      "doc05-italaw4073-pdf.pdf",
+      "doc06-italaw170969-pdf.pdf",
+      "doc07-italaw181586-pdf.pdf",
+      "doc08-italaw181587-pdf.pdf",
+      "doc09-italaw171244-pdf.pdf",
+      "doc10-italaw181589-pdf.pdf",
+      "doc11-italaw182499-pdf.pdf",
+      "doc12-italaw182500-pdf.pdf",
+      "doc13-italaw182495-pdf.pdf",
+      "doc14-italaw182497-pdf.pdf",
+      "doc15-italaw182498-pdf.pdf",
+      "doc16-italaw1827045-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2073": {
+    "caso": "postova-banka-and-istrokapital-v-greece",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6073-pdf.pdf",
+      "doc02-italaw6138-0-pdf.pdf",
+      "doc03-italaw3041-pdf.pdf",
+      "doc04-italaw3042-pdf.pdf",
+      "doc05-italaw3063-pdf.pdf",
+      "doc06-italaw3128-0-pdf.pdf",
+      "doc07-italaw4050-pdf.pdf",
+      "doc08-italaw4051-pdf.pdf",
+      "doc09-italaw4052-pdf.pdf",
+      "doc10-italaw4238-pdf.pdf",
+      "doc11-italaw4456-pdf.pdf",
+      "doc12-italaw7587-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2317": {
+    "caso": "rreef-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6101-2833-29-pdf.pdf",
+      "doc02-italaw7429-pdf.pdf",
+      "doc03-italaw10455-0-pdf.pdf",
+      "doc04-italaw10456-0-pdf.pdf",
+      "doc05-italaw11143-0-pdf.pdf",
+      "doc06-italaw16215-pdf.pdf",
+      "doc07-italaw170299-pdf.pdf",
+      "doc08-italaw171263-pdf.pdf",
+      "doc09-italaw171264-pdf.pdf",
+      "doc10-italaw1827289-pdf.pdf",
+      "doc11-italaw1827292-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2252": {
+    "caso": "spentex-v-uzbekistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6197-pdf.pdf",
+      "doc02-italaw181769-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2242": {
+    "caso": "transglobal-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6216-282-29-pdf.pdf",
+      "doc02-italaw1589-pdf.pdf",
+      "doc03-italaw7329-pdf.pdf",
+      "doc04-italaw7330-pdf.pdf",
+      "doc05-italaw7331-pdf.pdf",
+      "doc06-italaw7332-pdf.pdf",
+      "doc07-italaw7333-pdf.pdf",
+      "doc08-italaw7335-pdf.pdf",
+      "doc09-italaw7336-pdf.pdf",
+      "doc10-italaw10171-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/6902": {
+    "caso": "up-and-c-d-holding-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw10018-pdf.pdf",
+      "doc02-italaw10019-pdf.pdf",
+      "doc03-italaw10075-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2127": {
+    "caso": "valores-mundiales-and-consorcio-andino-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6235-281-29-pdf.pdf",
+      "doc02-italaw9748-pdf.pdf",
+      "doc03-italaw10247-pdf.pdf",
+      "doc04-italaw9256-pdf.pdf",
+      "doc05-italaw10538-pdf.pdf",
+      "doc06-italaw10539-pdf.pdf",
+      "doc07-italaw11388-pdf.pdf",
+      "doc08-italaw11387-pdf.pdf",
+      "doc09-italaw11464-pdf.pdf",
+      "doc10-italaw171353-pdf.pdf",
+      "doc11-italaw170419-pdf.pdf",
+      "doc12-italaw171417-pdf.pdf",
+      "doc13-italaw181111-pdf.pdf",
+      "doc14-180544-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2160": {
+    "caso": "van-riet-v-croatia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6033-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1765": {
+    "caso": "accession-mezzanine-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-ita0272-0-pdf.pdf",
+      "doc02-italaw1292-pdf.pdf",
+      "doc03-italaw3132-pdf.pdf",
+      "doc04-italaw4353-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1687": {
+    "caso": "apotex-v-usa-iii",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw8675-pdf.pdf",
+      "doc02-italaw1228-pdf.pdf",
+      "doc03-italaw1240-pdf.pdf",
+      "doc04-italaw1241-pdf.pdf",
+      "doc05-italaw1239-pdf.pdf",
+      "doc06-italaw1242-pdf.pdf",
+      "doc07-italaw1243-pdf.pdf",
+      "doc08-italaw1260-pdf.pdf",
+      "doc09-italaw1261-pdf.pdf",
+      "doc10-italaw1262-pdf.pdf",
+      "doc11-italaw1253-pdf.pdf",
+      "doc12-italaw1557-pdf.pdf",
+      "doc13-italaw1320-pdf.pdf",
+      "doc14-italaw3001-pdf.pdf",
+      "doc15-italaw1573-pdf.pdf",
+      "doc16-italaw1574-pdf.pdf",
+      "doc17-italaw3002-pdf.pdf",
+      "doc18-italaw1575-pdf.pdf",
+      "doc19-italaw3003-pdf.pdf",
+      "doc20-italaw3010-pdf.pdf",
+      "doc21-italaw3011-pdf.pdf",
+      "doc22-italaw3064-pdf.pdf",
+      "doc23-italaw3324-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1513": {
+    "caso": "blue-bank-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6030-pdf.pdf",
+      "doc02-ita1078-pdf.pdf",
+      "doc03-italaw3009-pdf.pdf",
+      "doc04-italaw8769-pdf.pdf",
+      "doc05-italaw8768-pdf.pdf",
+      "doc06-italaw9533-pdf.pdf",
+      "doc07-italaw16408-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2036": {
+    "caso": "cap-and-sehil-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6246-282-29-1-pdf.pdf",
+      "doc02-italaw4163-pdf.pdf",
+      "doc03-italaw4350-pdf.pdf",
+      "doc04-180522-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1479": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/asia-sur-este-pacifico/2012-churchill-mining-v-indonesia/italaw7893.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/1937": {
+    "caso": "dan-cake-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6143-pdf.pdf",
+      "doc02-italaw4457-pdf.pdf",
+      "doc03-italaw11277-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2095": {
+    "caso": "e-energija-v-latvia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw9481-pdf.pdf",
+      "doc02-italaw9482-pdf.pdf",
+      "doc03-italaw181032-pdf.pdf",
+      "doc04-italaw181030-pdf.pdf",
+      "doc05-italaw181031-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/384": {
+    "caso": "emmis-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6141-pdf.pdf",
+      "doc02-italaw6144-pdf.pdf",
+      "doc03-ita0272-pdf.pdf",
+      "doc04-italaw1239-0-pdf.pdf",
+      "doc05-italaw1513-pdf.pdf",
+      "doc06-italaw3143-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1941": {
+    "caso": "fabrica-de-vidrios-v-venezuela-i",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw4326-pdf.pdf",
+      "doc02-italaw4327-pdf.pdf",
+      "doc03-italaw7217-pdf.pdf",
+      "doc04-italaw7218-pdf.pdf",
+      "doc05-italaw7608-pdf.pdf",
+      "doc06-italaw7609-pdf.pdf",
+      "doc07-italaw8815-pdf.pdf",
+      "doc08-italaw9383-pdf.pdf",
+      "doc09-italaw9387-pdf.pdf",
+      "doc10-italaw16409-pdf.pdf",
+      "doc11-italaw16410-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2026": {
+    "caso": "gavazzi-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6159-pdf.pdf",
+      "doc02-italaw8187-pdf.pdf",
+      "doc03-italaw8190-0-pdf.pdf",
+      "doc04-italaw8191-4-pdf.pdf",
+      "doc05-italaw8192-pdf.pdf",
+      "doc06-italaw8193-0-pdf.pdf",
+      "doc07-italaw8194-1-pdf.pdf",
+      "doc08-italaw8195-0-pdf.pdf",
+      "doc09-italaw8196-pdf.pdf",
+      "doc10-italaw8198-0-pdf.pdf",
+      "doc11-italaw8199-pdf.pdf",
+      "doc12-italaw8200-pdf.pdf",
+      "doc13-italaw8201-0-pdf.pdf",
+      "doc14-italaw8202-7-pdf.pdf",
+      "doc15-italaw8203-pdf.pdf",
+      "doc16-italaw8204-0-pdf.pdf",
+      "doc17-italaw9506-pdf.pdf",
+      "doc18-italaw9507-0-pdf.pdf",
+      "doc19-italaw9508-pdf.pdf",
+      "doc20-italaw9509-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1966": {
+    "caso": "gavrilovic-v-croatia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6025-pdf.pdf",
+      "doc02-italaw9862-0-pdf.pdf",
+      "doc03-italaw9863-pdf.pdf",
+      "doc04-italaw9864-pdf.pdf",
+      "doc05-italaw9865-pdf.pdf",
+      "doc06-italaw9866-pdf.pdf",
+      "doc07-italaw9867-pdf.pdf",
+      "doc08-italaw9868-pdf.pdf",
+      "doc09-italaw9869-pdf.pdf",
+      "doc10-italaw9870-pdf.pdf",
+      "doc11-italaw9871-pdf.pdf",
+      "doc12-italaw9887-pdf.pdf",
+      "doc13-italaw1827309662-pdf.pdf",
+      "doc14-italaw1827309663-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1968": {
+    "caso": "grupo-francisco-v-equatorial-guinea",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw170878-pdf.pdf",
+      "doc02-italaw7119-pdf.pdf",
+      "doc03-italaw7141-pdf.pdf",
+      "doc04-italaw7142-pdf.pdf",
+      "doc05-italaw170879-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1970": {
+    "caso": "guardian-fiduciary-v-macedonia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6190-pdf.pdf",
+      "doc02-iia-may2013-pdf.pdf",
+      "doc03-italaw4447-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1972": {
+    "caso": "igb-v-spain",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6235-282-29-pdf.pdf",
+      "doc02-italaw7477-pdf.pdf",
+      "doc03-italaw7474-pdf.pdf",
+      "doc04-italaw7475-pdf.pdf",
+      "doc05-italaw7476-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2020": {
+    "caso": "lao-holdings-v-laos-i",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6172-pdf.pdf",
+      "doc02-italaw3233-0-pdf.pdf",
+      "doc03-italaw8930-pdf.pdf",
+      "doc04-italaw8931-pdf.pdf",
+      "doc05-italaw3108-pdf.pdf",
+      "doc06-italaw3208-pdf.pdf",
+      "doc07-italaw3235-0-pdf.pdf",
+      "doc08-italaw8932-pdf.pdf",
+      "doc09-italaw8932-0-pdf.pdf",
+      "doc10-italaw8933-pdf.pdf",
+      "doc11-italaw8934-pdf.pdf",
+      "doc12-italaw4103-pdf.pdf",
+      "doc13-italaw8935-pdf.pdf",
+      "doc14-italaw8936-pdf.pdf",
+      "doc15-italaw8937-pdf.pdf",
+      "doc16-italaw8938-pdf.pdf",
+      "doc17-italaw8939-pdf.pdf",
+      "doc18-italaw4333-pdf.pdf",
+      "doc19-italaw8940-pdf.pdf",
+      "doc20-italaw7299-pdf.pdf",
+      "doc21-italaw8941-pdf.pdf",
+      "doc22-italaw8942-pdf.pdf",
+      "doc23-italaw94018-pdf.pdf",
+      "doc24-italaw9559-0-pdf.pdf",
+      "doc25-italaw9767-0-pdf.pdf",
+      "doc26-italaw9790-pdf.pdf",
+      "doc27-italaw9789-pdf.pdf",
+      "doc28-italaw9893-pdf.pdf",
+      "doc29-italaw9894-pdf.pdf",
+      "doc30-italaw9895-1-pdf.pdf",
+      "doc31-italaw10703-pdf.pdf",
+      "doc32-italaw11456-pdf.pdf",
+      "doc33-italaw16550-pdf.pdf",
+      "doc34-italaw16551-pdf.pdf",
+      "doc35-italaw16552-pdf.pdf",
+      "doc36-italaw16553-pdf.pdf",
+      "doc37-italaw180855-pdf.pdf",
+      "doc38-italaw170405-1-pdf.pdf",
+      "doc39-italaw170566-pdf.pdf",
+      "doc40-italaw170811-0-pdf.pdf",
+      "doc41-italaw180899-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2022": {
+    "caso": "lone-star-and-others-v-korea",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6036-pdf.pdf",
+      "doc02-italaw11846-pdf.pdf",
+      "doc03-italaw11847-pdf.pdf",
+      "doc04-italaw11848-pdf.pdf",
+      "doc05-italaw171086-pdf.pdf",
+      "doc06-italaw170699-pdf.pdf",
+      "doc07-italaw170700-pdf.pdf",
+      "doc08-italaw170701-pdf.pdf",
+      "doc09-italaw170571-pdf.pdf",
+      "doc10-italaw171206-pdf.pdf",
+      "doc11-18023-pdf.pdf",
+      "doc12-italaw181885-pdf.pdf",
+      "doc13-italaw181886-pdf.pdf",
+      "doc14-italaw181887-pdf.pdf",
+      "doc15-italaw181888-pdf.pdf",
+      "doc16-italaw181889-pdf.pdf",
+      "doc17-italaw181883-pdf.pdf",
+      "doc18-180573-pdf.pdf",
+      "doc19-italaw181882-pdf.pdf",
+      "doc20-italaw181936-pdf.pdf",
+      "doc21-italaw181884-pdf.pdf",
+      "doc22-italaw1826623-pdf.pdf",
+      "doc23-italaw1827248-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1217": {
+    "caso": "mercer-v-canada",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6187-2824-29-pdf.pdf",
+      "doc02-ita0930-pdf.pdf",
+      "doc03-italaw1508-pdf.pdf",
+      "doc04-italaw1509-pdf.pdf",
+      "doc05-italaw1510-pdf.pdf",
+      "doc06-italaw1511-pdf.pdf",
+      "doc07-italaw1512-pdf.pdf",
+      "doc08-italaw3043-pdf.pdf",
+      "doc09-italaw3137-pdf.pdf",
+      "doc10-italaw4053-pdf.pdf",
+      "doc11-italaw4055-pdf.pdf",
+      "doc12-italaw4056-pdf.pdf",
+      "doc13-italaw4054-pdf.pdf",
+      "doc14-italaw4057-pdf.pdf",
+      "doc15-italaw3188-pdf.pdf",
+      "doc16-italaw4034-pdf.pdf",
+      "doc17-italaw4039-pdf.pdf",
+      "doc18-italaw4035-pdf.pdf",
+      "doc19-italaw4037-pdf.pdf",
+      "doc20-italaw4038-pdf.pdf",
+      "doc21-italaw4040-pdf.pdf",
+      "doc22-italaw4010-pdf.pdf",
+      "doc23-italaw4059-pdf.pdf",
+      "doc24-italaw4032-pdf.pdf",
+      "doc25-italaw4060-pdf.pdf",
+      "doc26-italaw4033-pdf.pdf",
+      "doc27-italaw4036-pdf.pdf",
+      "doc28-italaw4058-pdf.pdf",
+      "doc29-italaw4080-pdf.pdf",
+      "doc30-italaw4172-pdf.pdf",
+      "doc31-italaw4173-pdf.pdf",
+      "doc32-italaw4174-pdf.pdf",
+      "doc33-italaw4175-pdf.pdf",
+      "doc34-italaw4166-pdf.pdf",
+      "doc35-italaw4167-pdf.pdf",
+      "doc36-italaw4168-pdf.pdf",
+      "doc37-italaw4169-pdf.pdf",
+      "doc38-italaw4170-pdf.pdf",
+      "doc39-italaw4171-pdf.pdf",
+      "doc40-italaw4334-pdf.pdf",
+      "doc41-italaw4335-pdf.pdf",
+      "doc42-italaw4336-pdf.pdf",
+      "doc43-italaw4337-pdf.pdf",
+      "doc44-italaw4338-pdf.pdf",
+      "doc45-italaw4339-pdf.pdf",
+      "doc46-italaw4340-pdf.pdf",
+      "doc47-italaw4341-pdf.pdf",
+      "doc48-italaw4342-pdf.pdf",
+      "doc49-italaw4346-pdf.pdf",
+      "doc50-italaw4343-pdf.pdf",
+      "doc51-italaw4344-pdf.pdf",
+      "doc52-italaw4345-pdf.pdf",
+      "doc53-italaw4347-pdf.pdf",
+      "doc54-italaw4348-pdf.pdf",
+      "doc55-italaw7231-pdf.pdf",
+      "doc56-italaw7232-pdf.pdf",
+      "doc57-italaw7233-pdf.pdf",
+      "doc58-italaw7234-pdf.pdf",
+      "doc59-italaw4349-pdf.pdf",
+      "doc60-italaw6206-pdf.pdf",
+      "doc61-italaw9660-pdf.pdf",
+      "doc62-italaw9661-pdf.pdf",
+      "doc63-italaw9662-pdf.pdf",
+      "doc64-italaw9663-pdf.pdf",
+      "doc65-italaw9664-pdf.pdf",
+      "doc66-italaw9665-pdf.pdf",
+      "doc67-italaw9666-pdf.pdf",
+      "doc68-italaw9667-pdf.pdf",
+      "doc69-italaw7235-pdf.pdf",
+      "doc70-italaw9659-pdf.pdf",
+      "doc71-italaw9658-pdf.pdf",
+      "doc72-italaw7236-0-pdf.pdf",
+      "doc73-italaw9651-0-pdf.pdf",
+      "doc74-italaw10395-pdf.pdf",
+      "doc75-italaw10396-pdf.pdf",
+      "doc76-italaw10392-pdf.pdf",
+      "doc77-italaw10397-pdf.pdf",
+      "doc78-italaw10398-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2028": {
+    "caso": "mnss-and-rca-v-montenegro",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6186-pdf.pdf",
+      "doc02-italaw7311-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2040": {
+    "caso": "orascom-v-algeria",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw7169-pdf.pdf",
+      "doc02-italaw8973-pdf.pdf",
+      "doc03-italaw8977-pdf.pdf",
+      "doc04-italaw11799-pdf.pdf",
+      "doc05-italaw11800-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3088": {
+    "caso": "ping-an-v-belgium",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6063-pdf.pdf",
+      "doc02-italaw6064-pdf.pdf",
+      "doc03-italaw4285-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2048": {
+    "caso": "rusoro-mining-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6058-283-29-pdf.pdf",
+      "doc02-italaw7507-pdf.pdf",
+      "doc03-italaw9700-pdf.pdf",
+      "doc04-italaw9547-pdf.pdf",
+      "doc05-italaw9699-pdf.pdf",
+      "doc06-italaw10299-1-pdf.pdf",
+      "doc07-italaw10379-pdf.pdf",
+      "doc08-italaw10380-pdf.pdf",
+      "doc09-italaw10521-pdf.pdf",
+      "doc10-italaw170289-pdf.pdf",
+      "doc11-italaw170397-pdf.pdf",
+      "doc12-italaw170759-0-pdf.pdf",
+      "doc13-italaw171169-pdf.pdf",
+      "doc14-italaw171386-0-pdf.pdf",
+      "doc15-italaw181098-pdf.pdf",
+      "doc16-italaw181102-pdf.pdf",
+      "doc17-italaw181108-pdf.pdf",
+      "doc18-180160-pdf.pdf",
+      "doc19-italaw181092-pdf.pdf",
+      "doc20-181765-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1784": {
+    "caso": "saint-gobain-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6042-pdf.pdf",
+      "doc02-italaw1311-pdf.pdf",
+      "doc03-italaw8211-pdf.pdf",
+      "doc04-italaw8286-0-pdf.pdf",
+      "doc05-italaw8559-pdf.pdf",
+      "doc06-italaw10244-pdf.pdf",
+      "doc07-italaw10245-pdf.pdf",
+      "doc08-italaw10610-pdf.pdf",
+      "doc09-italaw10762-pdf.pdf",
+      "doc10-italaw10763-pdf.pdf",
+      "doc11-italaw11046-pdf.pdf",
+      "doc12-italaw11047-pdf.pdf",
+      "doc13-italaw16444-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2052": {
+    "caso": "supervision-v-costa-rica",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6069-pdf.pdf",
+      "doc02-italaw8226-pdf.pdf",
+      "doc03-italaw8228-pdf.pdf",
+      "doc04-italaw8227-pdf.pdf",
+      "doc05-italaw8230-pdf.pdf",
+      "doc06-italaw8231-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/4800": {
+    "caso": "tenaris-and-talta-v-venezuela-ii",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw8137-0-pdf.pdf",
+      "doc02-italaw9755-pdf.pdf",
+      "doc03-italaw10514-pdf.pdf",
+      "doc04-italaw11577-pdf.pdf",
+      "doc05-italaw11578-pdf.pdf",
+      "doc06-italaw180846-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1631": {
+    "caso": "tethyan-copper-v-pakistan",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6023-pdf.pdf",
+      "doc02-italaw1182-pdf.pdf",
+      "doc03-italaw8560-pdf.pdf",
+      "doc04-italaw10738-pdf.pdf",
+      "doc05-italaw10739-pdf.pdf",
+      "doc06-italaw10737-pdf.pdf",
+      "doc07-italaw10740-pdf.pdf",
+      "doc08-italaw11880-pdf.pdf",
+      "doc09-italaw170057-pdf.pdf",
+      "doc10-italaw170058-pdf.pdf",
+      "doc11-italaw170244-pdf.pdf",
+      "doc12-italaw171044-pdf.pdf",
+      "doc13-italaw170883-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2091": {
+    "caso": "transban-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6030-282-29-pdf.pdf",
+      "doc02-italaw11544-pdf.pdf",
+      "doc03-italaw11545-pdf.pdf",
+      "doc04-italaw11542-pdf.pdf",
+      "doc05-italaw11543-pdf.pdf",
+      "doc06-italaw11540-pdf.pdf",
+      "doc07-italaw11541-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2101": {
+    "caso": "veolia-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6089-0-pdf.pdf",
+      "doc02-18039-pdf.pdf",
+      "doc03-18040-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1786": {
+    "status": "ok_icsid",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/asia-sur-este-pacifico/2011-agility-v-pakistan/ICSID_Convention.pdf",
+    "n_pdfs": 3
+  },
+  "http://www.italaw.com/cases/1070": {
+    "caso": "al-tamimi-v-oman",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-ita0830-pdf.pdf",
+      "doc02-italaw3175-pdf.pdf",
+      "doc03-italaw3176-pdf.pdf",
+      "doc04-italaw3177-pdf.pdf",
+      "doc05-italaw3178-pdf.pdf",
+      "doc06-italaw3179-pdf.pdf",
+      "doc07-italaw3180-pdf.pdf",
+      "doc08-italaw3181-pdf.pdf",
+      "doc09-italaw3182-pdf.pdf",
+      "doc10-italaw3183-pdf.pdf",
+      "doc11-italaw3184-pdf.pdf",
+      "doc12-italaw3185-pdf.pdf",
+      "doc13-italaw3186-pdf.pdf",
+      "doc14-italaw4451-pdf.pdf",
+      "doc15-italaw4018-pdf.pdf",
+      "doc16-italaw4452-pdf.pdf",
+      "doc17-italaw4450-pdf.pdf",
+      "doc18-italaw10604-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1846": {
+    "caso": "arif-v-moldova",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6113-pdf.pdf",
+      "doc02-italaw1370-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "https://www.italaw.com/cases/5170": {
+    "caso": "baggerwerken-v-philippines",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw8225-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2010": {
+    "caso": "burimi-v-albania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6004-pdf.pdf",
+      "doc02-italaw1533-pdf.pdf",
+      "doc03-italaw1534-pdf.pdf",
+      "doc04-italaw1535-pdf.pdf",
+      "doc05-italaw1470-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1530": {
+    "caso": "crystallex-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6058-pdf.pdf",
+      "doc02-italaw1090-0-pdf.pdf",
+      "doc03-italaw9201-1-pdf.pdf",
+      "doc04-italaw7194-pdf.pdf",
+      "doc05-italaw7195-pdf.pdf",
+      "doc06-italaw7242-pdf.pdf",
+      "doc07-italaw7462-pdf.pdf",
+      "doc08-italaw7612-pdf.pdf",
+      "doc09-italaw7705-0-pdf.pdf",
+      "doc10-italaw8052-pdf.pdf",
+      "doc11-italaw8064-0-pdf.pdf",
+      "doc12-italaw8579-pdf.pdf",
+      "doc13-italaw9202-pdf.pdf",
+      "doc14-italaw10413-1-pdf.pdf",
+      "doc15-italaw9203-pdf.pdf",
+      "doc16-italaw9204-pdf.pdf",
+      "doc17-italaw8765-pdf.pdf",
+      "doc18-italaw8766-pdf.pdf",
+      "doc19-italaw8781-pdf.pdf",
+      "doc20-italaw8799-pdf.pdf",
+      "doc21-italaw9266-pdf.pdf",
+      "doc22-italaw9719-0-pdf.pdf",
+      "doc23-italaw10188-pdf.pdf",
+      "doc24-italaw10190-pdf.pdf",
+      "doc25-italaw10189-pdf.pdf",
+      "doc26-italaw10192-pdf.pdf",
+      "doc27-italaw10191-pdf.pdf",
+      "doc28-italaw10193-pdf.pdf",
+      "doc29-italaw10411-0-pdf.pdf",
+      "doc30-italaw10409-pdf.pdf",
+      "doc31-italaw10412-pdf.pdf",
+      "doc32-italaw10410-0-pdf.pdf",
+      "doc33-italaw10518-pdf.pdf",
+      "doc34-italaw10704-pdf.pdf",
+      "doc35-italaw11036-pdf.pdf",
+      "doc36-italaw11037-pdf.pdf",
+      "doc37-italaw11246-pdf.pdf",
+      "doc38-italaw11530-0-pdf.pdf",
+      "doc39-italaw16426-1-pdf.pdf",
+      "doc40-italaw16483-pdf.pdf",
+      "doc41-italaw170333-pdf.pdf",
+      "doc42-italaw170418-pdf.pdf",
+      "doc43-italaw170421-pdf.pdf",
+      "doc44-italaw170771-pdf.pdf",
+      "doc45-italaw170779-pdf.pdf",
+      "doc46-italaw171048-pdf.pdf",
+      "doc47-italaw181114-pdf.pdf",
+      "doc48-italaw171390-0-pdf.pdf",
+      "doc49-italaw171375-pdf.pdf",
+      "doc50-italaw171376-pdf.pdf",
+      "doc51-italaw181115-pdf.pdf",
+      "doc52-italaw171391-pdf.pdf",
+      "doc53-italaw181096-pdf.pdf",
+      "doc54-italaw181099-pdf.pdf",
+      "doc55-italaw181105-pdf.pdf",
+      "doc56-italaw181112-pdf.pdf",
+      "doc57-italaw181113-pdf.pdf",
+      "doc58-italaw181089-pdf.pdf",
+      "doc59-italaw180816-pdf.pdf",
+      "doc60-italaw181090-pdf.pdf",
+      "doc61-italaw181095-pdf.pdf",
+      "doc62-italaw181088-pdf.pdf",
+      "doc63-italaw181087-pdf.pdf",
+      "doc64-italaw181086-pdf.pdf",
+      "doc65-italaw181085-pdf.pdf",
+      "doc66-italaw181158-pdf.pdf",
+      "doc67-italaw181934-pdf.pdf",
+      "doc68-italaw182142-pdf.pdf",
+      "doc69-italaw182232-0-pdf.pdf",
+      "doc70-italaw182305-pdf.pdf",
+      "doc71-italaw182618-pdf.pdf",
+      "doc72-italaw1826491-pdf.pdf",
+      "doc73-italaw1827298-pdf.pdf",
+      "doc74-italaw1826710-pdf.pdf",
+      "doc75-italaw1827299-pdf.pdf",
+      "doc76-italaw1827175-pdf.pdf",
+      "doc77-italaw1827176-pdf.pdf",
+      "doc78-italaw1827296-pdf.pdf",
+      "doc79-italaw1827297-pdf.pdf",
+      "doc80-italaw1827295-pdf.pdf",
+      "doc81-italaw1827309651-pdf.pdf",
+      "doc82-italaw1827309643-pdf.pdf",
+      "doc83-italaw1827309647-pdf.pdf",
+      "doc84-italaw1827309648-pdf.pdf",
+      "doc85-italaw1827309649-pdf.pdf",
+      "doc86-italaw1827309650-pdf.pdf",
+      "doc87-italaw1827309644-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2836": {
+    "status": "not_found",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "https://www.italaw.com/cases/6290": {
+    "caso": "gambrinus-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw9342-pdf.pdf",
+      "doc02-italaw9343-pdf.pdf",
+      "doc03-italaw9344-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2176": {
+    "caso": "garanti-koza-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6248-pdf.pdf",
+      "doc02-italaw1540-pdf.pdf",
+      "doc03-italaw1541-pdf.pdf",
+      "doc04-italaw8189-12-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2250": {
+    "caso": "highbury-v-venezuela-i",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6198-283-29-0-pdf.pdf",
+      "doc02-italaw4309-pdf.pdf",
+      "doc03-italaw4308-0-pdf.pdf",
+      "doc04-italaw10795-pdf.pdf",
+      "doc05-180528-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2469": {
+    "caso": "koch-minerals-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6133-pdf.pdf",
+      "doc02-italaw9397-pdf.pdf",
+      "doc03-italaw9398-pdf.pdf",
+      "doc04-italaw94009-pdf.pdf",
+      "doc05-italaw10788-pdf.pdf",
+      "doc06-italaw180849-pdf.pdf",
+      "doc07-italaw180895-0-pdf.pdf",
+      "doc08-italaw16443-pdf.pdf",
+      "doc09-italaw16491-pdf.pdf",
+      "doc10-italaw171386-2-pdf.pdf",
+      "doc11-italaw181103-pdf.pdf",
+      "doc12-italaw181109-pdf.pdf",
+      "doc13-180116-pdf.pdf",
+      "doc14-italaw181093-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2556": {
+    "caso": "levy-and-gremcitel-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6114-pdf.pdf",
+      "doc02-italaw4105-pdf.pdf",
+      "doc03-italaw4106-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2406": {
+    "caso": "longreef-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6198-285-29-pdf.pdf",
+      "doc02-italaw16404-pdf.pdf",
+      "doc03-italaw16405-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3003": {
+    "caso": "mamidoil-v-albania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6000-pdf.pdf",
+      "doc02-italaw6101-2825-29-pdf.pdf",
+      "doc03-italaw4307-pdf.pdf",
+      "doc04-italaw4235-pdf.pdf",
+      "doc05-italaw4228-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2494": {
+    "caso": "national-gas-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6095-281-29-pdf.pdf",
+      "doc02-italaw4043-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2532": {
+    "caso": "nova-scotia-power-v-venezuela-ii",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6058-281-29-0-pdf.pdf",
+      "doc02-italaw3319-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2979": {
+    "caso": "oieg-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6198-287-29-pdf.pdf",
+      "doc02-italaw4209-pdf.pdf",
+      "doc03-italaw7100-pdf.pdf",
+      "doc04-italaw7221-pdf.pdf",
+      "doc05-italaw10318-pdf.pdf",
+      "doc06-italaw10151-pdf.pdf",
+      "doc07-italaw10348-pdf.pdf",
+      "doc08-italaw10543-pdf.pdf",
+      "doc09-italaw10544-1-pdf.pdf",
+      "doc10-italaw10542-pdf.pdf",
+      "doc11-italaw10545-pdf.pdf",
+      "doc12-italaw10546-pdf.pdf",
+      "doc13-italaw10905-pdf.pdf",
+      "doc14-italaw11042-0-pdf.pdf",
+      "doc15-italaw11041-0-pdf.pdf",
+      "doc16-180069-pdf.pdf",
+      "doc17-italaw16484-pdf.pdf",
+      "doc18-180070-pdf.pdf",
+      "doc19-italaw16486-pdf.pdf",
+      "doc20-italaw16485-pdf.pdf",
+      "doc21-italaw170404-pdf.pdf",
+      "doc22-italaw170759-pdf.pdf",
+      "doc23-italaw171170-pdf.pdf",
+      "doc24-italaw171386-3-pdf.pdf",
+      "doc25-italaw181097-pdf.pdf",
+      "doc26-italaw181101-pdf.pdf",
+      "doc27-180068-pdf.pdf",
+      "doc28-italaw181107-pdf.pdf",
+      "doc29-180166-pdf.pdf",
+      "doc30-italaw181091-pdf.pdf",
+      "doc31-italaw181881-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1188": {
+    "caso": "rafat-v-indonesia",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6151-281-29-pdf.pdf",
+      "doc02-italaw3170-pdf.pdf",
+      "doc03-italaw3171-pdf.pdf",
+      "doc04-italaw3008-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1734": {
+    "caso": "ryan-and-others-v-poland",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6222-pdf.pdf",
+      "doc02-italaw1268-pdf.pdf",
+      "doc03-italaw1269-pdf.pdf",
+      "doc04-italaw7441-pdf.pdf",
+      "doc05-italaw7440-pdf.pdf",
+      "doc06-italaw10159-pdf.pdf",
+      "doc07-italaw10459-pdf.pdf",
+      "doc08-italaw170278-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2084": {
+    "caso": "tenaris-and-talta-v-venezuela-i",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6177-281-29-pdf.pdf",
+      "doc02-italaw6224-pdf.pdf",
+      "doc03-italaw7098-pdf.pdf",
+      "doc04-italaw7099-pdf.pdf",
+      "doc05-italaw10536-pdf.pdf",
+      "doc06-italaw16415-pdf.pdf",
+      "doc07-italaw16416-pdf.pdf",
+      "doc08-italaw11576-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1124": {
+    "caso": "tulip-real-estate-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6196-281-29-pdf.pdf",
+      "doc02-ita0879-pdf.pdf",
+      "doc03-italaw1341-pdf.pdf",
+      "doc04-italaw1340-pdf.pdf",
+      "doc05-italaw3127-pdf.pdf",
+      "doc06-italaw3126-pdf.pdf",
+      "doc07-italaw3255-pdf.pdf",
+      "doc08-italaw7037-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2768": {
+    "caso": "vigotop-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6074-0-pdf.pdf",
+      "doc02-italaw4047-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2288": {
+    "caso": "aes-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw8205-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/101": {
+    "caso": "awdi-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6228-pdf.pdf",
+      "doc02-italaw4152-0-pdf.pdf",
+      "doc03-italaw4208-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1470": {
+    "caso": "border-timbers-and-others-v-zimbabwe",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw6242-pdf.pdf",
+      "doc02-italaw7130-pdf.pdf",
+      "doc03-ita1023-pdf.pdf",
+      "doc04-ita1043-pdf.pdf",
+      "doc05-italaw1327-pdf.pdf",
+      "doc06-italaw1326-0-pdf.pdf",
+      "doc07-italaw7131-pdf.pdf",
+      "doc08-italaw7132-pdf.pdf",
+      "doc09-italaw7133-pdf.pdf",
+      "doc10-italaw7134-pdf.pdf",
+      "doc11-italaw7135-pdf.pdf",
+      "doc12-italaw7136-pdf.pdf",
+      "doc13-italaw7137-pdf.pdf",
+      "doc14-italaw7138-pdf.pdf",
+      "doc15-italaw7139-pdf.pdf",
+      "doc16-italaw181938-pdf.pdf",
+      "doc17-italaw7646-0-pdf.pdf",
+      "doc18-italaw7645-0-pdf.pdf",
+      "doc19-italaw9282-pdf.pdf",
+      "doc20-italaw9296-pdf.pdf",
+      "doc21-italaw181939-pdf.pdf",
+      "doc22-italaw181937-pdf.pdf",
+      "doc23-italaw170567-pdf.pdf",
+      "doc24-180272-pdf.pdf",
+      "doc25-180382-pdf.pdf",
+      "doc26-180636-pdf.pdf",
+      "doc27-italaw182386-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2078": {
+    "caso": "convial-callao-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6014-pdf.pdf",
+      "doc02-italaw0502-pdf.pdf",
+      "doc03-italaw0503-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2444": {
+    "caso": "de-levi-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6114-281-29-pdf.pdf",
+      "doc02-italaw3109-pdf.pdf",
+      "doc03-italaw3110-pdf.pdf",
+      "doc04-italaw3111-pdf.pdf",
+      "doc05-italaw3112-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2219": {
+    "caso": "dede-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw1586-pdf.pdf",
+      "doc02-italaw5010-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1524": {
+    "caso": "flughafen-zurich-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6241-pdf.pdf",
+      "doc02-italaw1085-pdf.pdf",
+      "doc03-italaw4068-pdf.pdf",
+      "doc04-italaw4069-pdf.pdf",
+      "doc05-italaw7219-pdf.pdf",
+      "doc06-italaw16411-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2560": {
+    "caso": "ickale-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6246-284-29-pdf.pdf",
+      "doc02-italaw3260-pdf.pdf",
+      "doc03-italaw7163-1-pdf.pdf",
+      "doc04-italaw7165-pdf.pdf",
+      "doc05-italaw7166-pdf.pdf",
+      "doc06-italaw7213-pdf.pdf",
+      "doc07-italaw7708-pdf.pdf",
+      "doc08-italaw7611-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1220": {
+    "caso": "klc-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6246-281-29-0-pdf.pdf",
+      "doc02-ita0932-pdf.pdf",
+      "doc03-italaw5002-0-pdf.pdf",
+      "doc04-italaw1515-0-pdf.pdf",
+      "doc05-italaw6274-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/2272": {
+    "caso": "metal-tech-v-uzbekistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6153-pdf.pdf",
+      "doc02-italaw3012-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/707": {
+    "caso": "minnotte-and-lewis-v-poland",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6223-281-29-pdf.pdf",
+      "doc02-italaw3192-pdf.pdf",
+      "doc03-italaw4029-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/460": {
+    "caso": "philip-morris-v-uruguay",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6239-pdf.pdf",
+      "doc02-ita0343-pdf.pdf",
+      "doc03-ita0345-pdf.pdf",
+      "doc04-ita0346-pdf.pdf",
+      "doc05-italaw1259-pdf.pdf",
+      "doc06-italaw1531-pdf.pdf",
+      "doc07-italaw1532-pdf.pdf",
+      "doc08-italaw7422-pdf.pdf",
+      "doc09-italaw7423-pdf.pdf",
+      "doc10-italaw4161-pdf.pdf",
+      "doc11-italaw4218-pdf.pdf",
+      "doc12-italaw7417-pdf.pdf",
+      "doc13-italaw7595-pdf.pdf",
+      "doc14-italaw7428-pdf.pdf",
+      "doc15-italaw7596-pdf.pdf",
+      "doc16-italaw7585-pdf.pdf",
+      "doc17-italaw7586-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/937": {
+    "caso": "rsm-v-grenada",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6139-pdf.pdf",
+      "doc02-ita0725-pdf.pdf",
+      "doc03-ita0726-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1046": {
+    "caso": "scb-v-tanzania",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6243-281-29-pdf.pdf",
+      "doc02-italaw1376-pdf.pdf",
+      "doc03-italaw1377-pdf.pdf",
+      "doc04-italaw1378-pdf.pdf",
+      "doc05-italaw1379-pdf.pdf",
+      "doc06-italaw1380-pdf.pdf",
+      "doc07-italaw1381-pdf.pdf",
+      "doc08-italaw1382-pdf.pdf",
+      "doc09-italaw1383-pdf.pdf",
+      "doc10-italaw1384-pdf.pdf",
+      "doc11-italaw1385-pdf.pdf",
+      "doc12-italaw1386-pdf.pdf",
+      "doc13-italaw1387-pdf.pdf",
+      "doc14-italaw1184-pdf.pdf",
+      "doc15-italaw4315-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1629": {
+    "caso": "teco-v-guatemala",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6049-287-29-pdf.pdf",
+      "doc02-italaw1437-pdf.pdf",
+      "doc03-italaw1438-pdf.pdf",
+      "doc04-italaw1439-pdf.pdf",
+      "doc05-italaw1440-pdf.pdf",
+      "doc06-italaw1441-pdf.pdf",
+      "doc07-italaw1451-pdf.pdf",
+      "doc08-italaw1452-pdf.pdf",
+      "doc09-italaw7292-pdf.pdf",
+      "doc10-italaw1449-pdf.pdf",
+      "doc11-italaw1450-pdf.pdf",
+      "doc12-italaw7293-pdf.pdf",
+      "doc13-italaw1453-pdf.pdf",
+      "doc14-italaw1454-pdf.pdf",
+      "doc15-italaw1456-pdf.pdf",
+      "doc16-italaw1447-pdf.pdf",
+      "doc17-italaw1442-pdf.pdf",
+      "doc18-italaw8089-pdf.pdf",
+      "doc19-italaw8131-pdf.pdf",
+      "doc20-italaw1443-pdf.pdf",
+      "doc21-italaw1445-pdf.pdf",
+      "doc22-italaw8129-pdf.pdf",
+      "doc23-italaw8130-pdf.pdf",
+      "doc24-italaw1444-pdf.pdf",
+      "doc25-italaw1434-pdf.pdf",
+      "doc26-italaw8127-pdf.pdf",
+      "doc27-italaw8128-pdf.pdf",
+      "doc28-italaw8125-pdf.pdf",
+      "doc29-italaw8126-pdf.pdf",
+      "doc30-italaw8121-pdf.pdf",
+      "doc31-italaw8122-pdf.pdf",
+      "doc32-italaw8123-pdf.pdf",
+      "doc33-italaw8124-pdf.pdf",
+      "doc34-italaw8119-pdf.pdf",
+      "doc35-italaw8120-pdf.pdf",
+      "doc36-italaw8090-0-pdf.pdf",
+      "doc37-italaw8091-0-pdf.pdf",
+      "doc38-italaw8117-0-pdf.pdf",
+      "doc39-italaw8118-0-pdf.pdf",
+      "doc40-italaw3035-pdf.pdf",
+      "doc41-italaw3038-pdf.pdf",
+      "doc42-italaw8098-pdf.pdf",
+      "doc43-italaw7294-pdf.pdf",
+      "doc44-italaw7295-pdf.pdf",
+      "doc45-italaw8113-pdf.pdf",
+      "doc46-italaw8114-pdf.pdf",
+      "doc47-italaw8088-0-pdf.pdf",
+      "doc48-italaw9510-pdf.pdf",
+      "doc49-italaw8111-pdf.pdf",
+      "doc50-italaw8112-pdf.pdf",
+      "doc51-italaw8109-pdf.pdf",
+      "doc52-italaw8110-pdf.pdf",
+      "doc53-italaw8095-pdf.pdf",
+      "doc54-italaw80101-pdf.pdf",
+      "doc55-italaw8099-0-pdf.pdf",
+      "doc56-italaw80100-pdf.pdf",
+      "doc57-italaw7296-pdf.pdf",
+      "doc58-italaw8093-pdf.pdf",
+      "doc59-italaw8092-pdf.pdf",
+      "doc60-italaw80102-pdf.pdf",
+      "doc61-italaw80103-pdf.pdf",
+      "doc62-italaw80104-pdf.pdf",
+      "doc63-italaw80105-pdf.pdf",
+      "doc64-italaw8094-pdf.pdf",
+      "doc65-italaw80109-pdf.pdf",
+      "doc66-italaw80106-pdf.pdf",
+      "doc67-italaw80107-pdf.pdf",
+      "doc68-italaw7196-pdf.pdf",
+      "doc69-italaw7197-0-pdf.pdf",
+      "doc70-italaw7297-pdf.pdf",
+      "doc71-italaw7298-pdf.pdf",
+      "doc72-italaw8086-1-pdf.pdf",
+      "doc73-italaw9207-pdf.pdf",
+      "doc74-italaw9208-pdf.pdf",
+      "doc75-italaw10324-pdf.pdf",
+      "doc76-italaw10325-pdf.pdf",
+      "doc77-italaw10322-pdf.pdf",
+      "doc78-italaw10323-pdf.pdf",
+      "doc79-italaw10326-0-pdf.pdf",
+      "doc80-italaw10014-pdf.pdf",
+      "doc81-italaw180848-pdf.pdf",
+      "doc82-italaw11489-pdf.pdf",
+      "doc83-italaw11490-pdf.pdf",
+      "doc84-italaw11585-pdf.pdf",
+      "doc85-italaw11586-pdf.pdf",
+      "doc86-italaw11886-pdf.pdf",
+      "doc87-italaw11887-pdf.pdf",
+      "doc88-italaw12003-pdf.pdf",
+      "doc89-italaw12007-pdf.pdf",
+      "doc90-italaw12006-pdf.pdf",
+      "doc91-italaw12005-pdf.pdf",
+      "doc92-italaw12004-pdf.pdf",
+      "doc93-italaw16207-pdf.pdf",
+      "doc94-italaw16208-pdf.pdf",
+      "doc95-italaw16299-pdf.pdf",
+      "doc96-italaw16300-pdf.pdf",
+      "doc97-italaw16397-pdf.pdf",
+      "doc98-italaw170460-pdf.pdf",
+      "doc99-italaw170461-pdf.pdf",
+      "doc100-italaw170462-pdf.pdf",
+      "doc101-italaw170463-pdf.pdf",
+      "doc102-italaw170464-pdf.pdf",
+      "doc103-italaw170465-pdf.pdf",
+      "doc104-italaw170466-pdf.pdf",
+      "doc105-italaw170467-pdf.pdf",
+      "doc106-italaw171224-pdf.pdf",
+      "doc107-italaw170951-pdf.pdf",
+      "doc108-italaw170952-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1096": {
+    "caso": "tidewater-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6030-281-29-pdf.pdf",
+      "doc02-ita0860-pdf.pdf",
+      "doc03-ita0861-pdf.pdf",
+      "doc04-italaw1277-pdf.pdf",
+      "doc05-italaw1278-pdf.pdf",
+      "doc06-italaw4206-0-pdf.pdf",
+      "doc07-italaw4207-pdf.pdf",
+      "doc08-italaw10175-pdf.pdf",
+      "doc09-italaw10131-pdf.pdf",
+      "doc10-italaw6050-0-pdf.pdf",
+      "doc11-italaw6051-pdf.pdf",
+      "doc12-italaw7155-pdf.pdf",
+      "doc13-italaw7156-pdf.pdf",
+      "doc14-italaw8026-pdf.pdf",
+      "doc15-italaw8027-pdf.pdf",
+      "doc16-italaw171093-pdf.pdf",
+      "doc17-italaw180847-pdf.pdf",
+      "doc18-italaw181106-pdf.pdf",
+      "doc19-italaw181100-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1472": {
+    "caso": "von-pezold-and-others-v-zimbabwe",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw6134-pdf.pdf",
+      "doc02-italaw7120-pdf.pdf",
+      "doc03-ita1024-pdf.pdf",
+      "doc04-ita1044-pdf.pdf",
+      "doc05-italaw1238-pdf.pdf",
+      "doc06-italaw1326-pdf.pdf",
+      "doc07-italaw7121-pdf.pdf",
+      "doc08-italaw7122-pdf.pdf",
+      "doc09-italaw7123-pdf.pdf",
+      "doc10-italaw7124-pdf.pdf",
+      "doc11-italaw7125-pdf.pdf",
+      "doc12-italaw7126-pdf.pdf",
+      "doc13-italaw7127-pdf.pdf",
+      "doc14-italaw7128-pdf.pdf",
+      "doc15-italaw7129-pdf.pdf",
+      "doc16-italaw7095-0-pdf.pdf",
+      "doc17-italaw7646-pdf.pdf",
+      "doc18-italaw7645-pdf.pdf",
+      "doc19-italaw9280-pdf.pdf",
+      "doc20-italaw9281-pdf.pdf",
+      "doc21-italaw10104-pdf.pdf",
+      "doc22-italaw170567-0-pdf.pdf",
+      "doc23-italaw171055-pdf.pdf",
+      "doc24-italaw171156-pdf.pdf",
+      "doc25-italaw171156-0-pdf.pdf",
+      "doc26-180254-pdf.pdf",
+      "doc27-180667-pdf.pdf",
+      "doc28-italaw182449-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1871": {
+    "caso": "abengoa-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw3187-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/296": {
+    "caso": "commerce-group-v-el-salvador",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6049-282-29-pdf.pdf",
+      "doc02-ita0191-0-pdf.pdf",
+      "doc03-ita0192-0-pdf.pdf",
+      "doc04-italaw7923-pdf.pdf",
+      "doc05-italaw7923-0-pdf.pdf",
+      "doc06-ita0193-pdf.pdf",
+      "doc07-ita0194-pdf.pdf",
+      "doc08-ita0195-pdf.pdf",
+      "doc09-ita0196-pdf.pdf",
+      "doc10-ita0197-pdf.pdf",
+      "doc11-ita0198-0-pdf.pdf",
+      "doc12-ita0204-0-pdf.pdf",
+      "doc13-ita0205-0-pdf.pdf",
+      "doc14-ita0200-0-pdf.pdf",
+      "doc15-ita0201-0-pdf.pdf",
+      "doc16-italaw7921-pdf.pdf",
+      "doc17-ita0202-pdf.pdf",
+      "doc18-ita0203-pdf.pdf",
+      "doc19-italaw1188-pdf.pdf",
+      "doc20-italaw7917-pdf.pdf",
+      "doc21-italaw1189-pdf.pdf",
+      "doc22-italaw7916-pdf.pdf",
+      "doc23-italaw7915-pdf.pdf",
+      "doc24-italaw7914-pdf.pdf",
+      "doc25-italaw7913-pdf.pdf",
+      "doc26-italaw7912-pdf.pdf",
+      "doc27-italaw7911-pdf.pdf",
+      "doc28-italaw7920-pdf.pdf",
+      "doc29-italaw7919-pdf.pdf",
+      "doc30-italaw1087-pdf.pdf",
+      "doc31-italaw1186-pdf.pdf",
+      "doc32-italaw1187-pdf.pdf",
+      "doc33-italaw7922-pdf.pdf",
+      "doc34-italaw7918-pdf.pdf",
+      "doc35-italaw1571-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1745": {
+    "caso": "deutsche-bank-v-sri-lanka",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6129-pdf.pdf",
+      "doc02-italaw1273-pdf.pdf",
+      "doc03-italaw1272-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1454": {
+    "caso": "dogan-v-turkmenistan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw7086-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/506": {
+    "caso": "global-trading-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6250-282-29-pdf.pdf",
+      "doc02-ita0379-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2727": {
+    "caso": "gold-reserve-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6058-281-29-pdf.pdf",
+      "doc02-italaw10199-0-pdf.pdf",
+      "doc03-italaw4009-pdf.pdf",
+      "doc04-italaw4079-pdf.pdf",
+      "doc05-italaw10194-pdf.pdf",
+      "doc06-italaw10195-pdf.pdf",
+      "doc07-italaw10196-pdf.pdf",
+      "doc08-italaw10197-pdf.pdf",
+      "doc09-italaw10198-pdf.pdf",
+      "doc10-italaw10200-pdf.pdf",
+      "doc11-italaw10201-pdf.pdf",
+      "doc12-italaw4486-pdf.pdf",
+      "doc13-italaw9057-pdf.pdf",
+      "doc14-italaw9841-pdf.pdf",
+      "doc15-italaw9187-pdf.pdf",
+      "doc16-italaw9193-pdf.pdf",
+      "doc17-italaw7158-pdf.pdf",
+      "doc18-italaw7157-pdf.pdf",
+      "doc19-italaw8285-0-pdf.pdf",
+      "doc20-italaw171047-pdf.pdf",
+      "doc21-italaw171053-pdf.pdf",
+      "doc22-italaw171054-pdf.pdf",
+      "doc23-italaw171186-pdf.pdf",
+      "doc24-italaw171386-1-pdf.pdf",
+      "doc25-italaw181104-pdf.pdf",
+      "doc26-italaw181110-pdf.pdf",
+      "doc27-180156-pdf.pdf",
+      "doc28-italaw181094-pdf.pdf",
+      "doc29-italaw1827300-pdf.pdf",
+      "doc30-italaw1827301-pdf.pdf",
+      "doc31-italaw1827309646-pdf.pdf",
+      "doc32-italaw1827309645-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1460": {
+    "caso": "h-h-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6097-283-29-pdf.pdf",
+      "doc02-ita1012-pdf.pdf",
+      "doc03-italaw7979-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1518": {
+    "caso": "iberdrola-energia-v-guatemala-i",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6140-pdf.pdf",
+      "doc02-ita1081-pdf.pdf",
+      "doc03-italaw10317-pdf.pdf",
+      "doc04-italaw4100-pdf.pdf",
+      "doc05-italaw4099-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2277": {
+    "caso": "kt-asia-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6189-0-pdf.pdf",
+      "doc02-italaw3006-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/783": {
+    "caso": "pac-rim-v-el-salvador",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6049-285-29-pdf.pdf",
+      "doc02-ita0590-pdf.pdf",
+      "doc03-ita0591-0-pdf.pdf",
+      "doc04-ita0592-pdf.pdf",
+      "doc05-ita0593-pdf.pdf",
+      "doc06-ita0594-pdf.pdf",
+      "doc07-ita0596-pdf.pdf",
+      "doc08-ita0595-pdf.pdf",
+      "doc09-ita0597-pdf.pdf",
+      "doc10-ita0598-pdf.pdf",
+      "doc11-ita0599-pdf.pdf",
+      "doc12-ita0600-pdf.pdf",
+      "doc13-ita0601-pdf.pdf",
+      "doc14-ita0602-pdf.pdf",
+      "doc15-ita0605-pdf.pdf",
+      "doc16-ita0603-pdf.pdf",
+      "doc17-italaw7924-pdf.pdf",
+      "doc18-ita0604-pdf.pdf",
+      "doc19-ita0606-pdf.pdf",
+      "doc20-ita0607-pdf.pdf",
+      "doc21-ita0608-pdf.pdf",
+      "doc22-ita0609-pdf.pdf",
+      "doc23-ita0610-pdf.pdf",
+      "doc24-ita0611-pdf.pdf",
+      "doc25-ita0612-pdf.pdf",
+      "doc26-italaw10217-pdf.pdf",
+      "doc27-italaw1204-pdf.pdf",
+      "doc28-ita0613-pdf.pdf",
+      "doc29-ita0614-pdf.pdf",
+      "doc30-ita0615-pdf.pdf",
+      "doc31-italaw10218-0-pdf.pdf",
+      "doc32-italaw10219-pdf.pdf",
+      "doc33-italaw1222-pdf.pdf",
+      "doc34-italaw1223-pdf.pdf",
+      "doc35-italaw1224-pdf.pdf",
+      "doc36-italaw1225-pdf.pdf",
+      "doc37-italaw1226-pdf.pdf",
+      "doc38-italaw1227-pdf.pdf",
+      "doc39-italaw1207-pdf.pdf",
+      "doc40-italaw1206-pdf.pdf",
+      "doc41-italaw1208-pdf.pdf",
+      "doc42-italaw1205-pdf.pdf",
+      "doc43-italaw1210-pdf.pdf",
+      "doc44-italaw1211-pdf.pdf",
+      "doc45-italaw1209-pdf.pdf",
+      "doc46-italaw1190-pdf.pdf",
+      "doc47-italaw1191-pdf.pdf",
+      "doc48-ita0935-pdf.pdf",
+      "doc49-italaw1425-pdf.pdf",
+      "doc50-italaw3040-pdf.pdf",
+      "doc51-italaw7925-pdf.pdf",
+      "doc52-italaw3320-pdf.pdf",
+      "doc53-italaw3321-pdf.pdf",
+      "doc54-italaw4195-pdf.pdf",
+      "doc55-italaw4196-pdf.pdf",
+      "doc56-italaw7926-0-pdf.pdf",
+      "doc57-italaw7926-pdf.pdf",
+      "doc58-italaw7638-pdf.pdf",
+      "doc59-italaw7640-0-pdf.pdf",
+      "doc60-italaw7641-0-pdf.pdf",
+      "doc61-italaw7642-0-pdf.pdf",
+      "doc62-italaw8735-0-pdf.pdf",
+      "doc63-italaw8734-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1136": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2009-reinhard-unglaube-v-costa-rica/ita1054_0.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/1516": {
+    "caso": "swisslion-v-macedonia",
+    "region": "Europa Occidental",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1648": {
+    "caso": "teinver-and-others-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-es.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-es.pdf",
+      "icsid-doc08-es.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-es.pdf",
+      "icsid-doc12-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1708": {
+    "caso": "alapli-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/97": {
+    "caso": "ata-construction-v-jordan",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-ita0043-pdf.pdf",
+      "doc02-ita0044-pdf.pdf",
+      "doc03-ita0045-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1563": {
+    "caso": "bosh-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/181": {
+    "caso": "burlington-v-ecuador",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-es.pdf",
+      "icsid-doc10-es.pdf",
+      "icsid-doc11-es.pdf",
+      "icsid-doc12-es.pdf",
+      "icsid-doc13-es.pdf",
+      "icsid-doc14-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/211": {
+    "caso": "caratube-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/478": {
+    "caso": "gea-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/565": {
+    "caso": "inmaris-perestroika-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1579": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/este-europa-asia-central/2008-karmer-marble-v-georgia/italaw6122.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/660": {
+    "caso": "malicorp-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1134": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2008-marion-unglaube-v-costa-rica/ita1055.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/723": {
+    "caso": "murphy-v-ecuador-i",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/819": {
+    "caso": "perenco-v-ecuador",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-es.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-es.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-es.pdf",
+      "icsid-doc10-es.pdf",
+      "icsid-doc11-en.pdf",
+      "icsid-doc12-en.pdf",
+      "icsid-doc13-es.pdf",
+      "icsid-doc14-en.pdf",
+      "icsid-doc15-en.pdf",
+      "icsid-doc16-en.pdf",
+      "icsid-doc17-es.pdf",
+      "icsid-doc18-en.pdf",
+      "icsid-doc19-en.pdf",
+      "icsid-doc20-es.pdf",
+      "icsid-doc21-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/193": {
+    "caso": "aes-v-hungary-ii",
+    "region": "Europa Occidental",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/71": {
+    "caso": "alpha-projektholding-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/85": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2007-anderson-v-costa-rica/ita0031.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/321": {
+    "caso": "conocophillips-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-en.pdf",
+      "icsid-doc12-en.pdf",
+      "icsid-doc13-en.pdf",
+      "icsid-doc14-en.pdf",
+      "icsid-doc15-en.pdf",
+      "icsid-doc16-en.pdf",
+      "icsid-doc17-es.pdf",
+      "icsid-doc18-es.pdf",
+      "icsid-doc19-es.pdf",
+      "icsid-doc20-es.pdf",
+      "icsid-doc21-es.pdf",
+      "icsid-doc22-en.pdf",
+      "icsid-doc23-es.pdf",
+      "icsid-doc24-en.pdf",
+      "icsid-doc25-en.pdf",
+      "icsid-doc26-en.pdf",
+      "icsid-doc27-en.pdf",
+      "icsid-doc28-en.pdf",
+      "icsid-doc29-en.pdf",
+      "icsid-doc30-es.pdf",
+      "icsid-doc31-en.pdf",
+      "icsid-doc32-en.pdf",
+      "icsid-doc33-en.pdf",
+      "icsid-doc34-es.pdf",
+      "icsid-doc35-en.pdf",
+      "icsid-doc36-en.pdf",
+      "icsid-doc37-en.pdf",
+      "icsid-doc38-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/380": {
+    "caso": "electrabel-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-en.pdf",
+      "icsid-doc12-en.pdf",
+      "icsid-doc13-en.pdf",
+      "icsid-doc14-en.pdf",
+      "icsid-doc15-en.pdf",
+      "icsid-doc16-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/421": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/europa-occidental/2007-europe-cement-v-turkey/ita0311.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/464": {
+    "caso": "fuchs-v-georgia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/527": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/africa-subsahariana/2007-hamester-v-ghana/ita0396.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/538": {
+    "caso": "hochtief-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/554": {
+    "caso": "impregilo-v-argentina-i",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-es.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1977": {
+    "caso": "liman-caspian-oil-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1225": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-del-norte/2007-mobil-murphy-v-canada/italaw7160.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/713": {
+    "caso": "mobil-and-others-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-es.pdf",
+      "icsid-doc08-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/810": {
+    "caso": "pantechniki-v-albania",
+    "region": "Europa Occidental",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/887": {
+    "caso": "rdv-v-guatemala",
+    "region": "América Central/Caribe",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/429": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/europa-occidental/2007-saba-fakes-v-turkey/ita0314.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/1016": {
+    "caso": "sgs-v-paraguay",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6218-pdf.pdf",
+      "doc02-italaw1526-pdf.pdf",
+      "doc03-italaw1528-pdf.pdf",
+      "doc04-italaw1525-pdf.pdf",
+      "doc05-italaw1527-pdf.pdf",
+      "doc06-italaw1484-pdf.pdf",
+      "doc07-italaw1536-pdf.pdf",
+      "doc08-italaw3236-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1108": {
+    "caso": "toto-v-lebanon",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6155-pdf.pdf",
+      "doc02-ita0869-pdf.pdf",
+      "doc03-ita1014-0-pdf.pdf",
+      "doc04-ita1013-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1126": {
+    "caso": "tza-yap-shum-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6067-pdf.pdf",
+      "doc02-ita0882-pdf.pdf",
+      "doc03-ita0880-pdf.pdf",
+      "doc04-ita0881-pdf.pdf",
+      "doc05-italaw4205-pdf.pdf",
+      "doc06-italaw4371-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1144": {
+    "caso": "urbaser-and-cabb-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6015-281-29-pdf.pdf",
+      "doc02-ita0887-pdf.pdf",
+      "doc03-italaw1324-pdf.pdf",
+      "doc04-italaw8136-1-pdf.pdf",
+      "doc05-italaw9627-pdf.pdf",
+      "doc06-180096-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/116": {
+    "caso": "azpetrol-v-azerbaijan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6101-288-29-pdf.pdf",
+      "doc02-ita0059-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/228": {
+    "caso": "cementownia-v-turkey-i",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6101-2810-29-pdf.pdf",
+      "doc02-ita0138-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/614": {
+    "caso": "lemire-v-ukraine-ii",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6250-285-29-pdf.pdf",
+      "doc02-ita0453-pdf.pdf",
+      "doc03-ita0455-pdf.pdf",
+      "doc04-ita0454-pdf.pdf",
+      "doc05-italaw7445-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/626": {
+    "caso": "libananco-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6101-2823-29-pdf.pdf",
+      "doc02-ita0465-pdf.pdf",
+      "doc03-ita0466-pdf.pdf",
+      "doc04-ita0928-pdf.pdf",
+      "doc05-ita0929-pdf.pdf",
+      "doc06-italaw4305-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/739": {
+    "caso": "nations-energy-v-panama",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6216-pdf.pdf",
+      "doc02-ita0560-pdf.pdf",
+      "doc03-ita0561-pdf.pdf",
+      "doc04-italaw3159-pdf.pdf",
+      "doc05-italaw10220-pdf.pdf",
+      "doc06-italaw10222-pdf.pdf",
+      "doc07-italaw10223-pdf.pdf",
+      "doc08-italaw10224-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/767": {
+    "caso": "occidental-v-ecuador-ii",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6088-2814-29-pdf.pdf",
+      "doc02-ita0576-pdf.pdf",
+      "doc03-italaw8036-pdf.pdf",
+      "doc04-ita0577-pdf.pdf",
+      "doc05-ita0578-pdf.pdf",
+      "doc06-italaw1096-pdf.pdf",
+      "doc07-italaw1097-pdf.pdf",
+      "doc08-italaw1094-pdf.pdf",
+      "doc09-italaw1095-pdf.pdf",
+      "doc10-italaw1600-pdf.pdf",
+      "doc11-italaw1601-pdf.pdf",
+      "doc12-italaw1602-pdf.pdf",
+      "doc13-italaw1603-pdf.pdf",
+      "doc14-italaw4006-pdf.pdf",
+      "doc15-italaw4448-pdf.pdf",
+      "doc16-italaw4449-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/850": {
+    "caso": "phoenix-action-v-czech-republic",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6079-pdf.pdf",
+      "doc02-ita0667-pdf.pdf",
+      "doc03-ita0668-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/885": {
+    "caso": "quiborax-v-bolivia",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6041-pdf.pdf",
+      "doc02-ita0698-pdf.pdf",
+      "doc03-ita0699-pdf.pdf",
+      "doc04-italaw1098-pdf.pdf",
+      "doc05-italaw1099-pdf.pdf",
+      "doc06-italaw4388-pdf.pdf",
+      "doc07-italaw4389-pdf.pdf",
+      "doc08-italaw8474-pdf.pdf",
+      "doc09-italaw8473-pdf.pdf",
+      "doc10-italaw8997-pdf.pdf",
+      "doc11-italaw9677-pdf.pdf",
+      "doc12-italaw9757-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/920": {
+    "caso": "rompetrol-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6193-pdf.pdf",
+      "doc02-ita0717-pdf.pdf",
+      "doc03-ita0718-pdf.pdf",
+      "doc04-italaw1408-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/927": {
+    "caso": "roussalis-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-ita0724-pdf.pdf",
+      "doc02-ita0723-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1506": {
+    "caso": "sistem-v-kyrgyzstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6170-pdf.pdf",
+      "doc02-italaw11245-pdf.pdf",
+      "doc03-ita1074-pdf.pdf",
+      "doc04-italaw9872-pdf.pdf",
+      "doc05-italaw1404-pdf.pdf",
+      "doc06-italaw7433-pdf.pdf",
+      "doc07-italaw9873-pdf.pdf",
+      "doc08-italaw180958-pdf.pdf",
+      "doc09-italaw9036-0-pdf.pdf",
+      "doc10-italaw9874-pdf.pdf",
+      "doc11-italaw10076-pdf.pdf",
+      "doc12-italaw180960-pdf.pdf",
+      "doc13-italaw182471-pdf.pdf",
+      "doc14-italaw182472-pdf.pdf",
+      "doc15-italaw182473-pdf.pdf",
+      "doc16-italaw182474-pdf.pdf",
+      "doc17-italaw1826709-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3616": {
+    "caso": "vestey-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6252-282-29-pdf.pdf",
+      "doc02-italaw7230-pdf.pdf",
+      "doc03-italaw181178-pdf.pdf",
+      "doc04-italaw181183-pdf.pdf",
+      "doc05-italaw181182-pdf.pdf",
+      "doc06-italaw10013-pdf.pdf",
+      "doc07-italaw181179-pdf.pdf",
+      "doc08-italaw181181-pdf.pdf",
+      "doc09-italaw16418-pdf.pdf",
+      "doc10-italaw16419-pdf.pdf",
+      "doc11-italaw181184-pdf.pdf",
+      "doc12-italaw181176-pdf.pdf",
+      "doc13-italaw181177-pdf.pdf",
+      "doc14-italaw181180-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/56": {
+    "caso": "ahca-v-congo",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6256-pdf.pdf",
+      "doc02-ita0017-pdf.pdf",
+      "doc03-ita0016-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/3471": {
+    "caso": "ares-and-metalgeo-v-georgia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6356-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/134": {
+    "caso": "bayview-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6187-285-29-pdf.pdf",
+      "doc02-italaw7758-2-pdf.pdf",
+      "doc03-italaw7761-pdf.pdf",
+      "doc04-italaw7759-2-pdf.pdf",
+      "doc05-italaw7764-pdf.pdf",
+      "doc06-italaw7762-pdf.pdf",
+      "doc07-italaw7763-pdf.pdf",
+      "doc08-italaw7765-pdf.pdf",
+      "doc09-italaw7767-pdf.pdf",
+      "doc10-italaw7768-pdf.pdf",
+      "doc11-italaw7769-pdf.pdf",
+      "doc12-italaw7770-pdf.pdf",
+      "doc13-italaw7771-pdf.pdf",
+      "doc14-italaw7773-pdf.pdf",
+      "doc15-italaw7772-pdf.pdf",
+      "doc16-ita0076-0-pdf.pdf",
+      "doc17-ita0077-0-pdf.pdf",
+      "doc18-ita0078-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/157": {
+    "caso": "biwater-v-tanzania",
+    "region": "Sin clasificar",
+    "docs": [
+      "doc01-italaw6243-pdf.pdf",
+      "doc02-ita0086-0-pdf.pdf",
+      "doc03-ita0087-pdf.pdf",
+      "doc04-ita0088-pdf.pdf",
+      "doc05-ita0089-pdf.pdf",
+      "doc06-ita0090-pdf.pdf",
+      "doc07-ita0091-0-pdf.pdf",
+      "doc08-ita0092-pdf.pdf",
+      "doc09-ita0093-0-pdf.pdf",
+      "doc10-ita0095-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/223": {
+    "caso": "cargill-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6187-289-29-pdf.pdf",
+      "doc02-italaw7981-0-pdf.pdf",
+      "doc03-italaw7982-0-pdf.pdf",
+      "doc04-italaw7775-pdf.pdf",
+      "doc05-italaw7782-pdf.pdf",
+      "doc06-italaw7781-pdf.pdf",
+      "doc07-italaw7983-pdf.pdf",
+      "doc08-italaw7777-pdf.pdf",
+      "doc09-italaw7783-pdf.pdf",
+      "doc10-italaw7780-pdf.pdf",
+      "doc11-ita0133-0-pdf.pdf",
+      "doc12-ita0134-pdf.pdf",
+      "doc13-ita0135-0-pdf.pdf",
+      "doc14-italaw7984-0-pdf.pdf",
+      "doc15-ita0136-pdf.pdf",
+      "doc16-ita0924-pdf.pdf",
+      "doc17-ita0925-0-pdf.pdf",
+      "doc18-ita0926-pdf.pdf",
+      "doc19-ita0927-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1520": {
+    "caso": "daimler-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6010-pdf.pdf",
+      "doc02-ita1083-pdf.pdf",
+      "doc03-ita1084-pdf.pdf",
+      "doc04-ita1082-pdf.pdf",
+      "doc05-italaw4092-pdf.pdf",
+      "doc06-italaw4093-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/353": {
+    "caso": "desert-line-v-yemen",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-ita0248-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/375": {
+    "caso": "edf-v-romania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6227-pdf.pdf",
+      "doc02-ita0263-pdf.pdf",
+      "doc03-ita0264-pdf.pdf",
+      "doc04-ita0266-pdf.pdf",
+      "doc05-ita0267-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/387": {
+    "caso": "emelec-v-ecuador",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6088-285-29-pdf.pdf",
+      "doc02-ita0274-pdf.pdf",
+      "doc03-ita0273-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/467": {
+    "caso": "funnekotter-v-zimbabwe",
+    "region": "África Subsahariana",
+    "docs": [
+      "doc01-italaw6200-pdf.pdf",
+      "doc02-ita0349-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/529": {
+    "caso": "helnan-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6084-pdf.pdf",
+      "doc02-ita0397-pdf.pdf",
+      "doc03-ita0398-0-pdf.pdf",
+      "doc04-ita0399-pdf.pdf",
+      "doc05-ita0400-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/599": {
+    "caso": "kardassopoulos-v-georgia",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6101-2821-29-0-pdf.pdf",
+      "doc02-italaw6119-pdf.pdf",
+      "doc03-ita0444-pdf.pdf",
+      "doc04-ita0445-pdf.pdf",
+      "doc05-ita0446-pdf.pdf",
+      "doc06-italaw3029-pdf.pdf",
+      "doc07-italaw3027-0-pdf.pdf",
+      "doc08-italaw9199-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/618": {
+    "caso": "lesi-v-algeria",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-ita0456-0-pdf.pdf",
+      "doc02-ita0457-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/646": {
+    "caso": "mhs-v-malaysia",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6179-pdf.pdf",
+      "doc02-ita0485-pdf.pdf",
+      "doc03-ita0488-pdf.pdf",
+      "doc04-ita0486-pdf.pdf",
+      "doc05-ita0487-pdf.pdf",
+      "doc06-ita0489-pdf.pdf",
+      "doc07-ita0490-pdf.pdf",
+      "doc08-ita0492-0-pdf.pdf",
+      "doc09-ita0493-pdf.pdf",
+      "doc10-ita0494-pdf.pdf",
+      "doc11-ita0495-pdf.pdf",
+      "doc12-ita0496-pdf.pdf",
+      "doc13-ita0498-pdf.pdf",
+      "doc14-ita0497-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/697": {
+    "caso": "micula-v-romania-i",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6225-pdf.pdf",
+      "doc02-ita0530-pdf.pdf",
+      "doc03-italaw3037-pdf.pdf",
+      "doc04-italaw3036-pdf.pdf",
+      "doc05-italaw4074-pdf.pdf",
+      "doc06-italaw4066-pdf.pdf",
+      "doc07-italaw9152-pdf.pdf",
+      "doc08-italaw10225-pdf.pdf",
+      "doc09-italaw8946-pdf.pdf",
+      "doc10-italaw10226-pdf.pdf",
+      "doc11-italaw10227-pdf.pdf",
+      "doc12-italaw10228-pdf.pdf",
+      "doc13-italaw10229-pdf.pdf",
+      "doc14-italaw10445-pdf.pdf",
+      "doc15-italaw9197-pdf.pdf",
+      "doc16-italaw9198-pdf.pdf",
+      "doc17-italaw7096-pdf.pdf",
+      "doc18-italaw7161-pdf.pdf",
+      "doc19-italaw9195-pdf.pdf",
+      "doc20-italaw9194-pdf.pdf",
+      "doc21-italaw8133-6-pdf.pdf",
+      "doc22-italaw9038-pdf.pdf",
+      "doc23-italaw94011-pdf.pdf",
+      "doc24-italaw94008-pdf.pdf",
+      "doc25-italaw9882-pdf.pdf",
+      "doc26-italaw9883-pdf.pdf",
+      "doc27-italaw10147-pdf.pdf",
+      "doc28-italaw10320-pdf.pdf",
+      "doc29-italaw10319-pdf.pdf",
+      "doc30-italaw10446-pdf.pdf",
+      "doc31-italaw10816-pdf.pdf",
+      "doc32-italaw10855-pdf.pdf",
+      "doc33-italaw11038-pdf.pdf",
+      "doc34-italaw11039-pdf.pdf",
+      "doc35-italaw11213-pdf.pdf",
+      "doc36-italaw11503-pdf.pdf",
+      "doc37-italaw11504-pdf.pdf",
+      "doc38-italaw12002-pdf.pdf",
+      "doc39-italaw16441-pdf.pdf",
+      "doc40-italaw16442-pdf.pdf",
+      "doc41-italaw170527-pdf.pdf",
+      "doc42-italaw170525-pdf.pdf",
+      "doc43-italaw170526-pdf.pdf",
+      "doc44-italaw170887-pdf.pdf",
+      "doc45-italaw170989-pdf.pdf",
+      "doc46-italaw170990-pdf.pdf",
+      "doc47-italaw170886-pdf.pdf",
+      "doc48-italaw171145-pdf.pdf",
+      "doc49-italaw171146-pdf.pdf",
+      "doc50-180428-pdf.pdf",
+      "doc51-180478-pdf.pdf",
+      "doc52-180583-pdf.pdf",
+      "doc53-180584-pdf.pdf",
+      "doc54-180780-pdf.pdf",
+      "doc55-italaw180911-pdf.pdf",
+      "doc56-italaw181978-pdf.pdf",
+      "doc57-italaw182122-pdf.pdf",
+      "doc58-italaw182121-pdf.pdf",
+      "doc59-italaw1826638-pdf.pdf",
+      "doc60-italaw182350-pdf.pdf",
+      "doc61-italaw182467-pdf.pdf",
+      "doc62-italaw182468-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/812": {
+    "caso": "parkerings-v-lithuania",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6175-pdf.pdf",
+      "doc02-ita0619-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/942": {
+    "caso": "rumeli-v-kazakhstan",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "doc01-italaw6167-pdf.pdf",
+      "doc02-ita0728-pdf.pdf",
+      "doc03-ita0729-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/951": {
+    "caso": "saipem-v-bangladesh",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6029-pdf.pdf",
+      "doc02-ita0733-pdf.pdf",
+      "doc03-ita0734-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/1022": {
+    "caso": "siag-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6091-281-29-pdf.pdf",
+      "doc02-ita0785-pdf.pdf",
+      "doc03-ita0787-pdf.pdf",
+      "doc04-ita0786-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1118": {
+    "caso": "tsa-spectrum-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6013-pdf.pdf",
+      "doc02-ita0874-pdf.pdf",
+      "doc03-ita0875-pdf.pdf",
+      "doc04-ita0876-pdf.pdf",
+      "doc05-ita0877-pdf.pdf",
+      "doc06-ita0878-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/37": {
+    "caso": "abci-investments-v-tunisia",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw1407-pdf.pdf",
+      "doc02-italaw1346-pdf.pdf",
+      "doc03-italaw181819-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/91": {
+    "caso": "adm-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw7788-pdf.pdf",
+      "doc02-italaw7778-0-pdf.pdf",
+      "doc03-italaw7779-1-pdf.pdf",
+      "doc04-ita0035-pdf.pdf",
+      "doc05-ita0036-pdf.pdf",
+      "doc06-ita0039-pdf.pdf",
+      "doc07-ita0040-pdf.pdf",
+      "doc08-ita0038-pdf.pdf",
+      "doc09-ita0037-0-pdf.pdf",
+      "doc10-ita0041-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/345": {
+    "caso": "corn-products-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6187-2812-29-pdf.pdf",
+      "doc02-italaw9515-pdf.pdf",
+      "doc03-italaw9516-pdf.pdf",
+      "doc04-italaw7774-pdf.pdf",
+      "doc05-italaw9517-pdf.pdf",
+      "doc06-italaw9518-pdf.pdf",
+      "doc07-italaw9523-pdf.pdf",
+      "doc08-italaw7778-pdf.pdf",
+      "doc09-italaw9522-pdf.pdf",
+      "doc10-italaw7779-0-pdf.pdf",
+      "doc11-italaw9520-pdf.pdf",
+      "doc12-italaw9521-pdf.pdf",
+      "doc13-ita0242-pdf.pdf",
+      "doc14-ita0243-pdf.pdf",
+      "doc15-ita0244-pdf.pdf",
+      "doc16-ita0245-pdf.pdf",
+      "doc17-ita0246-pdf.pdf",
+      "doc18-ita0247-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/356": {
+    "caso": "duke-energy-v-ecuador",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6088-283-29-pdf.pdf",
+      "doc02-ita0250-pdf.pdf",
+      "doc03-ita0251-pdf.pdf",
+      "doc04-ita0252-pdf.pdf",
+      "doc05-ita0253-pdf.pdf",
+      "doc06-ita0254-pdf.pdf",
+      "doc07-ita0255-pdf.pdf",
+      "doc08-ita0256-pdf.pdf",
+      "doc09-ita0257-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/480": {
+    "caso": "gemplus-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6012-pdf.pdf",
+      "doc02-italaw6112-pdf.pdf",
+      "doc03-italaw9644-pdf.pdf",
+      "doc04-italaw7800-pdf.pdf",
+      "doc05-ita0357-pdf.pdf",
+      "doc06-italaw9643-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/587": {
+    "caso": "jan-de-nul-and-and-dredging-international-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6035-pdf.pdf",
+      "doc02-ita0439-pdf.pdf",
+      "doc03-ita0440-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/2183": {
+    "caso": "mobil-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6017-289-29-pdf.pdf",
+      "doc02-italaw10444-2-pdf.pdf",
+      "doc03-italaw10443-pdf.pdf",
+      "doc04-italaw10509-pdf.pdf",
+      "doc05-italaw10508-pdf.pdf",
+      "doc06-italaw10510-pdf.pdf",
+      "doc07-italaw10511-0-pdf.pdf",
+      "doc08-italaw10507-pdf.pdf",
+      "doc09-italaw10372-pdf.pdf",
+      "doc10-italaw10373-pdf.pdf",
+      "doc11-italaw10650-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/770": {
+    "caso": "oko-v-estonia",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6102-pdf.pdf",
+      "doc02-italaw6103-pdf.pdf",
+      "doc03-ita0579-pdf.pdf",
+      "doc04-ita0580-pdf.pdf",
+      "doc05-ita0581-pdf.pdf",
+      "doc06-ita0582-pdf.pdf",
+      "doc07-ita0583-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1456": {
+    "caso": "saur-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6009-283-29-pdf.pdf",
+      "doc02-ita1017-pdf.pdf",
+      "doc03-ita1018-pdf.pdf",
+      "doc04-ita1015-pdf.pdf",
+      "doc05-ita1016-pdf.pdf",
+      "doc06-italaw3189-pdf.pdf",
+      "doc07-italaw3190-pdf.pdf",
+      "doc08-italaw8006-0-pdf.pdf",
+      "doc09-italaw8007-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/597": {
+    "caso": "talsud-v-mexico",
+    "region": "América del Norte",
+    "docs": [
+      "doc01-italaw6012-281-29-pdf.pdf",
+      "doc02-italaw6112-281-29-pdf.pdf",
+      "doc03-italaw8810-pdf.pdf",
+      "doc04-italaw8811-0-pdf.pdf",
+      "doc05-ita0357-0-pdf.pdf",
+      "doc06-italaw8809-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1093": {
+    "caso": "telenor-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6142-pdf.pdf",
+      "doc02-ita0858-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1105": {
+    "caso": "total-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6009-284-29-pdf.pdf",
+      "doc02-ita0867-pdf.pdf",
+      "doc03-ita0868-pdf.pdf",
+      "doc04-italaw7201-pdf.pdf",
+      "doc05-italaw7202-pdf.pdf",
+      "doc06-italaw7203-pdf.pdf",
+      "doc07-italaw7204-pdf.pdf",
+      "doc08-italaw7199-pdf.pdf",
+      "doc09-italaw7200-pdf.pdf",
+      "doc10-italaw8573-pdf.pdf",
+      "doc11-italaw7902-0-pdf.pdf",
+      "doc12-italaw7905-pdf.pdf",
+      "doc13-italaw7903-0-pdf.pdf",
+      "doc14-italaw7904-pdf.pdf",
+      "doc15-italaw4367-pdf.pdf",
+      "doc16-italaw7084-pdf.pdf",
+      "doc17-italaw7085-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1146": {
+    "caso": "vannessa-ventures-v-venezuela",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6058-284-29-pdf.pdf",
+      "doc02-italaw8729-pdf.pdf",
+      "doc03-italaw8731-pdf.pdf",
+      "doc04-italaw8727-pdf.pdf",
+      "doc05-italaw8730-pdf.pdf",
+      "doc06-italaw8728-pdf.pdf",
+      "doc07-ita0888-pdf.pdf",
+      "doc08-italaw1250-pdf.pdf",
+      "doc09-italaw8726-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1035": {
+    "caso": "vieira-v-chile",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6062-281-29-pdf.pdf",
+      "doc02-ita0797-pdf.pdf",
+      "doc03-ita0795-pdf.pdf",
+      "doc04-ita0796-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1171": {
+    "caso": "wintershall-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6010-283-29-pdf.pdf",
+      "doc02-ita0907-pdf.pdf",
+      "doc03-ita0908-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/41": {
+    "caso": "adc-v-hungary",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-ita0006-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/131": {
+    "caso": "bayindir-v-pakistan-i",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6214-pdf.pdf",
+      "doc02-ita0074-pdf.pdf",
+      "doc03-ita0075-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/329": {
+    "caso": "continental-casualty-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6017-284-29-pdf.pdf",
+      "doc02-ita0227-pdf.pdf",
+      "doc03-ita0228-pdf.pdf",
+      "doc04-ita0230-pdf.pdf",
+      "doc05-ita0229-pdf.pdf",
+      "doc06-ita0231-pdf.pdf",
+      "doc07-ita0232-pdf.pdf",
+      "doc08-italaw1089-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/372": {
+    "caso": "edf-and-others-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6007-282-29-pdf.pdf",
+      "doc02-italaw6009-281-29-pdf.pdf",
+      "doc03-ita0262-pdf.pdf",
+      "doc04-ita1069-pdf.pdf",
+      "doc05-italaw7906-0-pdf.pdf",
+      "doc06-italaw7907-0-pdf.pdf",
+      "doc07-italaw7908-0-pdf.pdf",
+      "doc08-italaw7909-0-pdf.pdf",
+      "doc09-italaw7090-pdf.pdf",
+      "doc10-italaw7091-pdf.pdf",
+      "doc11-italaw10370-0-pdf.pdf",
+      "doc12-italaw10371-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/382": {
+    "caso": "el-paso-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6017-285-29-pdf.pdf",
+      "doc02-ita0268-0-pdf.pdf",
+      "doc03-ita0269-0-pdf.pdf",
+      "doc04-ita0968-pdf.pdf",
+      "doc05-ita0969-pdf.pdf",
+      "doc06-ita0970-pdf.pdf",
+      "doc07-ita0270-pdf.pdf",
+      "doc08-ita0271-pdf.pdf",
+      "doc09-italaw170572-pdf.pdf",
+      "doc10-italaw4007-0-pdf.pdf",
+      "doc11-italaw4008-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/456": {
+    "caso": "fraport-v-philippines-i",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "doc01-italaw6126-pdf.pdf",
+      "doc02-ita0340-pdf.pdf",
+      "doc03-italaw1325-pdf.pdf",
+      "doc04-ita0341-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/562": {
+    "caso": "inceysa-v-el-salvador",
+    "region": "América Central/Caribe",
+    "docs": [
+      "doc01-italaw6098-pdf.pdf",
+      "doc02-ita0424-0-pdf.pdf",
+      "doc03-ita0425-0-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/389": {
+    "caso": "industria-nacional-de-alimentos-v-peru",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6061-pdf.pdf",
+      "doc02-ita0275-pdf.pdf",
+      "doc03-ita0276-pdf.pdf",
+      "doc04-ita0277-pdf.pdf",
+      "doc05-ita0278-pdf.pdf",
+      "doc06-ita0279-pdf.pdf",
+      "doc07-ita0280-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/590": {
+    "caso": "joy-mining-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-italaw6096-281-29-pdf.pdf",
+      "doc02-ita0441-pdf.pdf",
+      "doc03-ita0442-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/323": {
+    "caso": "l-e-s-i-v-algeria",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "doc01-ita0224-pdf.pdf",
+      "doc02-italaw4321-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/662": {
+    "caso": "mci-v-ecuador",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6088-287-29-pdf.pdf",
+      "doc02-ita0500-pdf.pdf",
+      "doc03-ita0501-pdf.pdf",
+      "doc04-ita0502-pdf.pdf",
+      "doc05-ita0503-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://italaw.com/cases/680": {
+    "caso": "metalpar-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6008-pdf.pdf",
+      "doc02-ita0514-pdf.pdf",
+      "doc03-ita0981-pdf.pdf",
+      "doc04-ita0515-pdf.pdf",
+      "doc05-ita0516-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/857": {
+    "caso": "plama-v-bulgaria",
+    "region": "Europa Occidental",
+    "docs": [
+      "doc01-italaw6101-2831-29-pdf.pdf",
+      "doc02-ita0669-pdf.pdf",
+      "doc03-ita0670-pdf.pdf",
+      "doc04-ita0671-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1048": {
+    "caso": "suez-and-interagua-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-es.pdf",
+      "icsid-doc09-es.pdf",
+      "icsid-doc10-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1057": {
+    "caso": "suez-and-vivendi-v-argentina-ii",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-es.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-es.pdf",
+      "icsid-doc08-es.pdf",
+      "icsid-doc09-es.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-es.pdf",
+      "icsid-doc12-en.pdf",
+      "icsid-doc13-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/62": {
+    "status": "ok_icsid",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/medio-oriente-norte-africa/2002-ahmonseto-v-egypt/ICSID_Convention.pdf",
+    "n_pdfs": 3
+  },
+  "http://www.italaw.com/cases/245": {
+    "caso": "champion-trading-and-ameritrade-v-egypt",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/443": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2002-firemans-fund-v-mexico/italaw9638.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/621": {
+    "caso": "lg-e-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/880": {
+    "caso": "pseg-v-turkey",
+    "region": "Sin clasificar",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/954": {
+    "caso": "salini-v-jordan",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1002": {
+    "caso": "sempra-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-es.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-es.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-es.pdf",
+      "icsid-doc12-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1026": {
+    "caso": "siemens-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "doc01-italaw6010-282-29-pdf.pdf",
+      "doc02-ita0788-pdf.pdf",
+      "doc03-ita0789-pdf.pdf",
+      "doc04-ita0790-pdf.pdf",
+      "doc05-ita0791-pdf.pdf",
+      "doc06-ita0792-pdf.pdf",
+      "doc07-ita0793-pdf.pdf"
+    ],
+    "ok": true
+  },
+  "http://www.italaw.com/cases/1041": {
+    "caso": "soufraki-v-uae",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1099": {
+    "caso": "tokios-tokeles-v-ukraine",
+    "region": "Este Europa/Asia Central",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-en.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf",
+      "icsid-doc09-en.pdf",
+      "icsid-doc10-en.pdf",
+      "icsid-doc11-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/64": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/este-europa-asia-central/2001-aig-v-kazakhstan/italaw3077.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/118": {
+    "caso": "azurix-v-argentina-i",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-en.pdf",
+      "icsid-doc05-es.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/288": {
+    "caso": "cms-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-es.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-es.pdf",
+      "icsid-doc04-es.pdf",
+      "icsid-doc05-en.pdf",
+      "icsid-doc06-es.pdf",
+      "icsid-doc07-en.pdf",
+      "icsid-doc08-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/401": {
+    "caso": "enron-v-argentina",
+    "region": "América del Sur",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-es.pdf",
+      "icsid-doc03-en.pdf",
+      "icsid-doc04-es.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/469": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2001-fw-oil-v-trinidad/ita0350.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/1487": {
+    "caso": "goetz-v-burundi-ii",
+    "region": "Sin clasificar",
+    "docs": [
+      "icsid-doc01-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/717": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-del-sur/2001-mtd-v-chile/ita0544.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/747": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/este-europa-asia-central/2001-noble-ventures-v-romania/ita0565.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/43": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-del-norte/2000-adf-v-usa/italaw8603.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/482": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/este-europa-asia-central/2000-generation-ukraine-v-ukraine/ita0358.pdf",
+    "n_pdfs": 1
+  },
+  "http://www.italaw.com/cases/702": {
+    "caso": "mihaly-v-sri-lanka",
+    "region": "Asia Sur-Este/Pacífico",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/325": {
+    "caso": "rfcc-v-morocco",
+    "region": "Medio Oriente/Norte África",
+    "docs": [
+      "icsid-doc01-en.pdf",
+      "icsid-doc02-en.pdf",
+      "icsid-doc03-en.pdf"
+    ],
+    "ok": true,
+    "source": "icsid-direct"
+  },
+  "http://www.italaw.com/cases/1087": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2000-tecmed-v-mexico/ita0855.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/1158": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/america-central-caribe/2000-waste-management-v-mexico-ii/italaw8674_0.pdf",
+    "n_pdfs": 2
+  },
+  "http://www.italaw.com/cases/1173": {
+    "status": "ok",
+    "pdf_local": "/Users/juancaputo/Desktop/Proyecto nch/tesis-ciadi/laudos/asia-sur-este-pacifico/2000-yaung-chi-v-myanmar/ita0909.pdf",
+    "n_pdfs": 1
+  },
+  "NOT_AVAILABLE:ARB/21/2": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/20/16": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/19/14": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/18/20": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/17/41": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/17/6": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/17/47": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/17/11": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/32": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/5": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/24": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/31": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/28": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/16/22": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/8": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/16": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/32": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/37": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/19": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/25": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/17": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/15/1": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/14/6": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/09/8": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  },
+  "NOT_AVAILABLE:ARB/05/10": {
+    "status": "genuinely_unavailable",
+    "pdf_local": "",
+    "n_pdfs": 0
+  }
+}
